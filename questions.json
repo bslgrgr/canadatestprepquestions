@@ -1,31 +1,6 @@
 {
   "questions": [
     {
-      "question": "To which principles does the Canadian Charter of Rights and Freedoms begin with?",
-      "possible_answers": [
-        {
-          "answer_text": "Democracy and Freedom",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Equality and Peace",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Supremacy of God and the rule of law",
-          "is_correct": true
-        },
-        {
-          "answer_text": "Justice and Order",
-          "is_correct": false
-        }
-      ],
-      "quote": "The Charter begins with the words, \u201cWhereas Canada is founded upon principles that recognize the **supremacy of God and the rule of law.**\u201d",
-      "page": 8,
-      "paragraph": "Rights and Responsibilities of Citizenship",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=supremacy%20of%20God%20and%20the%20rule%20of%20law"
-    },
-    {
       "question": "What is the core idea behind Canada's constitutional monarchy?",
       "possible_answers": [
         {
@@ -49,6 +24,98 @@
       "page": 2,
       "paragraph": "Understanding the Oath",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html#:~:text=these%20elements%20are%20encompassed%20by%20the%20Sovereign%20(Queen%20or%20King)"
+    },
+    {
+      "question": "Which historical document is known as the Great Charter of Freedoms?",
+      "possible_answers": [
+        {
+          "answer_text": "The Canadian Charter of Rights and Freedoms",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Constitution of Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Magna Carta",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Civil Code of France",
+          "is_correct": false
+        }
+      ],
+      "quote": "Together, these secure for Canadians an 800-year old tradition of ordered liberty, which dates back to the signing of **Magna Carta in 1215 in England (also known as the Great Charter of Freedoms)**...",
+      "page": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Magna%20Carta%20in%201215%20in%20England%20(also%20known%20as%20the%20Great%20Charter%20of%20Freedoms)"
+    },
+    {
+      "question": "What must immigrants between the ages of 18 and 54 have to become Canadian citizens?",
+      "possible_answers": [
+        {
+          "answer_text": "A job in Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adequate knowledge of English or French",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A valid passport",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canadian relatives",
+          "is_correct": false
+        }
+      ],
+      "quote": "Immigrants between the ages of **18 and 54 must have adequate knowledge of English or French** in order to become Canadian citizens.",
+      "page": 3,
+      "paragraph": "Message to Our Readers",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=18%20and%2054%20must%20have%20adequate%20knowledge%20of%20English%20or%20French"
+    },
+    {
+      "question": "Does Canada have an unwritten constitution?",
+      "possible_answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No",
+          "is_correct": false
+        }
+      ],
+      "quote": "Canadian law has several sources, including laws passed by Parliament and the provincial legislatures, English common law, the civil code of France and the **unwritten constitution** that we have inherited from Great Britain.",
+      "page": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=unwritten%20constitution"
+    },
+    {
+      "question": "What type of state is Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "A Federal state",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A Unitary state",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A Confederal state",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A Monarchical state",
+          "is_correct": false
+        }
+      ],
+      "quote": "Canada is a constitutional monarchy, a parliamentary democracy and **a federal state**.",
+      "page": 3,
+      "paragraph": "Message to Our Readers",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=a%20federal%20state"
     }
   ]
 }
