@@ -117,5 +117,5 @@ Example of JSON with multiple questions:
   ]
 }
 
-The online page should be taken from the user request, but it should include the part "#:~:text=" to highlight the correct answer on the page (the same text highlighted in bold in the quote).
+The online page should be taken from the user request, but it should include the part "#:~:text=" to highlight the correct answer on the page (the same text highlighted in bold in the quote, without **).
 Generate a few new questions.

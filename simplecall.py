@@ -29,7 +29,7 @@ with open(current_dir + '/request-doc.txt', 'r') as request_file:
 document_content_short, _ = split_by_first_occurrence(document_content, "Page: 9")
 document_content_1st_part, document_content_2nd_part = split_by_first_occurrence(document_content, "Page: 30")
 
-document_content = document_content_short
+document_content = document_content_1st_part
 
 # Load previously generated questions
 questions_file_path = current_dir + '/questions.json'
