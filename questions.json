@@ -1,129 +1,104 @@
 {
   "questions": [
     {
-      "question": "Which of the following documents is known as the Great Charter of Freedoms?",
+      "question": "What does the Oath of Citizenship promise allegiance to?",
       "possible_answers": [
         {
-          "answer_text": "The British North America Act",
+          "answer_text": "The Constitution of Canada",
           "is_correct": false
         },
         {
-          "answer_text": "The Bill of Rights",
+          "answer_text": "The flag of Canada",
           "is_correct": false
         },
         {
-          "answer_text": "The Magna Carta",
+          "answer_text": "His Majesty King Charles the Third",
           "is_correct": true
         },
         {
-          "answer_text": "The Charter of Rights and Freedoms",
+          "answer_text": "The Parliament of Canada",
           "is_correct": false
         }
       ],
-      "quote": "Together, these secure for Canadians an 800- year old tradition of ordered liberty, which dates back to the signing of **Magna Carta** in 1215 in England (also known as the Great Charter of Freedoms), including:",
+      "quote": "I swear (or affirm) That I will be faithful And bear true allegiance To **His Majesty King Charles the Third** King of Canada His Heirs and Successors",
+      "page": 2,
+      "paragraph": "The Oath of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html#:~:text=To%20**His%20Majesty%20King%20Charles%20the%20Third**"
+    },
+    {
+      "question": "To which principles does the Canadian Charter of Rights and Freedoms begin with?",
+      "possible_answers": [
+        {
+          "answer_text": "Democracy and Freedom",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Equality and Peace",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Supremacy of God and the rule of law",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Justice and Order",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Charter begins with the words, “Whereas Canada is founded upon principles that recognize the **supremacy of God and the rule of law.**”",
       "page": 8,
       "paragraph": "Rights and Responsibilities of Citizenship",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Magna%20Carta"
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=**supremacy%20of%20God%20and%20the%20rule%20of%20law**"
     },
     {
-      "question": "Which rights are mentioned in the Canadian Charter of Rights and Freedoms?",
+      "question": "What rights does the Canadian law guarantee regarding language?",
       "possible_answers": [
         {
-          "answer_text": "Mobility Rights",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Aboriginal Peoples’ Rights",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Official Language Rights and Minority Language Educational Rights",
-          "is_correct": false
-        },
-        {
-          "answer_text": "All of the above",
+          "answer_text": "Equal status for English and French throughout the country",
           "is_correct": true
+        },
+        {
+          "answer_text": "Preference for the French language only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Preference for the English language only",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No official language status",
+          "is_correct": false
         }
       ],
-      "quote": "The Charter attempts to summarize fundamental freedoms while also setting out additional rights. The most important of these include: **Mobility Rights — Canadians can live and work anywhere they choose in Canada**",
+      "quote": "The Charter attempts to summarize fundamental freedoms while also setting out additional rights. The most important of these include: Official Language Rights and Minority Language Educational Rights — **French and English have equal status** in Parliament and throughout the government.",
       "page": 8,
       "paragraph": "Rights and Responsibilities of Citizenship",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Mobility%20Rights%20%E2%80%94%20Canadians%20can%20live%20and%20work%20anywhere%20they%20choose%20in%20Canada"
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=**French%20and%20English%20have%20equal%20status**"
     },
     {
-      "question": "What is one of Canada's founding principles?",
+      "question": "What is one responsibility that accompanies the right to vote in Canada?",
       "possible_answers": [
         {
-          "answer_text": "Pottery",
+          "answer_text": "Paying taxes",
           "is_correct": false
         },
         {
-          "answer_text": "The rule of law",
+          "answer_text": "Volunteering",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Serving on a jury",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Voting in elections",
           "is_correct": true
-        },
-        {
-          "answer_text": "Economic exuberance",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Artistic exploration",
-          "is_correct": false
         }
       ],
-      "quote": "Obeying the law — **One of Canada’s founding principles is the rule of law**. Individuals and governments are regulated by laws and not by arbitrary actions. No person or group is above the law.",
+      "quote": "These include: Voting in elections — **The right to vote comes with a responsibility to vote** in federal, provincial or territorial and local elections.",
       "page": 9,
       "paragraph": "Citizenship Responsibilities",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=One%20of%20Canada%E2%80%99s%20founding%20principles%20is%20the%20rule%20of%20law"
-    },
-    {
-      "question": "What must Canadians be willing to do when called to do so?",
-      "possible_answers": [
-        {
-          "answer_text": "Serve on a jury",
-          "is_correct": true
-        },
-        {
-          "answer_text": "Run for office",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Join the Canada Revenue Agency",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Write legal documents",
-          "is_correct": false
-        }
-      ],
-      "quote": "Serving on a jury — **When called to do so, you are legally required to serve**. Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens.",
-      "page": 9,
-      "paragraph": "Citizenship Responsibilities",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=When%20called%20to%20do%20so%2C%20you%20are%20legally%20required%20to%20serve."
-    },
-    {
-      "question": "Which of the following is a way to contribute to Canada?",
-      "possible_answers": [
-        {
-          "answer_text": "Serving in the regular Canadian Forces",
-          "is_correct": true
-        },
-        {
-          "answer_text": "Avoiding community service",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Working solely abroad",
-          "is_correct": false
-        },
-        {
-          "answer_text": "Opting out of local responsibilities",
-          "is_correct": false
-        }
-      ],
-      "quote": "There is no compulsory military service in Canada. However, **serving in the regular Canadian Forces (navy, army and air force) is a noble way to contribute to Canada** and an excellent career choice (www.forces.ca).",
-      "page": 9,
-      "paragraph": "Defending Canada",
-      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=serving%20in%20the%20regular%20Canadian%20Forces%20(navy%2C%20army%20and%20air%20force)%20is%20a%20noble%20way%20to%20contribute%20to%20Canada"
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=**The%20right%20to%20vote%20comes%20with%20a%20responsibility%20to%20vote**"
     }
   ]
 }
