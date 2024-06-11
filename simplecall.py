@@ -66,7 +66,7 @@ def process_part(start_line):
     return start_line, "\n".join(part_text)
 
 # Main loop to generate and confirm new questions
-current_line = 19
+current_line = 25
 while current_line < len(document_lines):
     current_line, part_text = process_part(current_line)
     if not part_text:
@@ -101,4 +101,4 @@ while current_line < len(document_lines):
     current_line += 1
 
 print("Finished generating questions.")
-print("Current line: " + current_line)
+print("Current line: ", current_line)

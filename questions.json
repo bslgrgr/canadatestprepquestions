@@ -49,6 +49,31 @@
       "page_number": 2,
       "paragraph": "The Oath of Citizenship",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html#:~:text=recognizes%20and%20affirms"
+    },
+    {
+      "question": "To whom do Canadians profess their loyalty?",
+      "possible_answers": [
+        {
+          "answer_text": "A document such as a constitution",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A banner such as a flag",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A geopolitical entity such as a country",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A person who represents all Canadians",
+          "is_correct": true
+        }
+      ],
+      "quote": "In Canada, **we profess our loyalty to a person who represents all Canadians** and not to a document such as a constitution, a banner such as a flag, or a geopolitical entity such as a country.",
+      "page_number": 2,
+      "paragraph": "Understanding the Oath",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html#:~:text=we%20profess%20our%20loyalty%20to%20a%20person%20who%20represents%20all%20Canadians"
     }
   ]
 }
