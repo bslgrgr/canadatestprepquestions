@@ -149,6 +149,231 @@
       "page_number": 3,
       "paragraph": "Message to Our Readers",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=must%20obey%20Canada%E2%80%99s%20laws%20and%20respect%20the%20rights%20and%20freedoms%20of%20others"
+    },
+    {
+      "question": "What significant historical document signed in 1215 in England is also known as the Great Charter of Freedoms?",
+      "possible_answers": [
+        {
+          "answer": "The Bill of Rights",
+          "correct": false
+        },
+        {
+          "answer": "The Magna Carta",
+          "correct": true
+        },
+        {
+          "answer": "The Declaration of Independence",
+          "correct": false
+        },
+        {
+          "answer": "The English Civil Code",
+          "correct": false
+        }
+      ],
+      "quote": "Together, these secure for Canadians an 800- year old tradition of ordered liberty, which dates back to the signing of **Magna Carta in 1215 in England** (also known as the Great Charter of Freedoms)...",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Magna%20Carta%20in%201215%20in%20England"
+    },
+    {
+      "question": "What right allows Canadians to challenge unlawful detention by the state?",
+      "possible_answers": [
+        {
+          "answer": "Freedom of expression",
+          "correct": false
+        },
+        {
+          "answer": "Habeas corpus",
+          "correct": true
+        },
+        {
+          "answer": "Right to privacy",
+          "correct": false
+        },
+        {
+          "answer": "Freedom of assembly",
+          "correct": false
+        }
+      ],
+      "quote": "**Habeas corpus, the right to challenge unlawful detention by the state**, comes from English common law.",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Habeas%20corpus,%20the%20right%20to%20challenge%20unlawful%20detention%20by%20the%20state"
+    },
+    {
+      "question": "When was the Constitution of Canada amended to include the Canadian Charter of Rights and Freedoms?",
+      "possible_answers": [
+        {
+          "answer": "1867",
+          "correct": false
+        },
+        {
+          "answer": "1945",
+          "correct": false
+        },
+        {
+          "answer": "1982",
+          "correct": true
+        },
+        {
+          "answer": "1991",
+          "correct": false
+        }
+      ],
+      "quote": "The Constitution of Canada was **amended in 1982** to entrench the Canadian Charter of Rights and Freedoms...",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=amended%20in%201982"
+    },
+    {
+      "question": "What guarantees that French and English have equal status in Parliament and throughout the government?",
+      "possible_answers": [
+        {
+          "answer": "Multiculturalism",
+          "correct": false
+        },
+        {
+          "answer": "Mobility Rights",
+          "correct": false
+        },
+        {
+          "answer": "Aboriginal Peoples\u2019 Rights",
+          "correct": false
+        },
+        {
+          "answer": "Official Language Rights and Minority Language Educational Rights",
+          "correct": true
+        }
+      ],
+      "quote": "**Official Language Rights and Minority Language Educational Rights** \u2014 French and English have equal status in Parliament and throughout the government.",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Official%20Language%20Rights%20and%20Minority%20Language%20Educational%20Rights"
+    },
+    {
+      "question": "What phrase in the Canadian Charter of Rights and Freedoms emphasizes the importance of religious traditions in Canadian society?",
+      "possible_answers": [
+        {
+          "answer": "The supremacy of God and the rule of law",
+          "correct": true
+        },
+        {
+          "answer": "Freedom of conscience and religion",
+          "correct": false
+        },
+        {
+          "answer": "Habeas corpus",
+          "correct": false
+        },
+        {
+          "answer": "Mobility Rights",
+          "correct": false
+        }
+      ],
+      "quote": "... the Charter of Rights and Freedoms, which begins with the words, **\u201cWhereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\u201d** This phrase underlines the importance of religious traditions to Canadian society...",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=the%20supremacy%20of%20God%20and%20the%20rule%20of%20law."
+    },
+    {
+      "question": "Who proclaimed the amended Constitution in Ottawa in 1982?",
+      "possible_answers": [
+        {
+          "answer_text": "Prime Minister Pierre Trudeau",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Queen Victoria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Queen Elizabeth I",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Queen Elizabeth II",
+          "is_correct": true
+        }
+      ],
+      "quote": "**Queen Elizabeth II** proclaiming the amended Constitution, Ottawa, 1982",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=Queen%20Elizabeth%20II"
+    },
+    {
+      "question": "In which year did Queen Elizabeth II proclaim the amended Constitution in Ottawa?",
+      "possible_answers": [
+        {
+          "answer_text": "1978",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1982",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1992",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2000",
+          "is_correct": false
+        }
+      ],
+      "quote": "Queen Elizabeth II proclaiming the amended Constitution, Ottawa, **1982**",
+      "page_number": 8,
+      "paragraph": "Rights and Responsibilities of Citizenship (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=1982"
+    },
+    {
+      "question": "Are men and women treated equally under the law in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": true
+        },
+        {
+          "answer_text": "No",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only men have more rights",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only women have more rights",
+          "is_correct": false
+        }
+      ],
+      "quote": "In Canada, **men and women are equal under the law**.",
+      "page_number": 9,
+      "paragraph": "The Equality of Women and Men",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=men%20and%20women%20are%20equal%20under%20the%20law"
+    },
+    {
+      "question": "What happens to those guilty of gender-based violence in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "They are severely punished",
+          "is_correct": true
+        },
+        {
+          "answer_text": "They are given a warning",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are deported",
+          "is_correct": false
+        },
+        {
+          "answer_text": "They are ignored",
+          "is_correct": false
+        }
+      ],
+      "quote": "Those guilty of these crimes **are severely punished** under Canada\u2019s criminal laws.",
+      "page_number": 9,
+      "paragraph": "The Equality of Women and Men",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=are%20severely%20punished"
     }
   ]
 }
