@@ -1,5 +1,6 @@
 import os
 import json
+import random
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -28,13 +29,24 @@ if os.path.exists(questions_file_path):
 else:
     previous_questions = {"questions": []}
 
-def generate_new_questions(system_content, part_text):
+def get_random_examples(previous_questions, num_examples=3):
+    if len(previous_questions['questions']) <= num_examples:
+        return previous_questions['questions']
+    return random.sample(previous_questions['questions'], num_examples)
+
+def generate_new_questions(system_content, part_text, previous_questions):
+    examples = get_random_examples(previous_questions)
+    example_text = json.dumps({"questions": examples}, indent=2)
+
     request = f"""
     Based on the following provided text, generate a few new and unique questions. 
     The link to the selected text should only highlight the text marked in bold in the quote.
 
     Provided Text:
     {part_text}
+
+    Here are some examples of previously generated questions:
+    {example_text}
     """
 
     completion = client.chat.completions.create(
@@ -55,6 +67,7 @@ def save_questions(questions, file_path):
 
 def process_part(start_line):
     part_text = []
+    cur_line = start_line
     for i in range(start_line, len(document_lines)):
         line = document_lines[i].strip()
         if line.startswith("Page:"):
@@ -63,7 +76,8 @@ def process_part(start_line):
             part_text.append(line)
         elif line:
             part_text.append(line)
-    return start_line, "\n".join(part_text)
+        cur_line = i
+    return cur_line, "\n".join(part_text)
 
 # Main loop to generate and confirm new questions
 current_line = 25
@@ -76,7 +90,7 @@ while current_line < len(document_lines):
     print(part_text)
 
     while True:
-        new_questions = generate_new_questions(system_content, part_text)
+        new_questions = generate_new_questions(system_content, part_text, previous_questions)
 
         for question in new_questions['questions']:
             print("\nNew Question Generated:")

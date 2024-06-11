@@ -74,6 +74,81 @@
       "page_number": 2,
       "paragraph": "Understanding the Oath",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/oath-citizenship.html#:~:text=we%20profess%20our%20loyalty%20to%20a%20person%20who%20represents%20all%20Canadians"
+    },
+    {
+      "question": "What must immigrants between the ages of 18 and 54 have in order to become Canadian citizens?",
+      "possible_answers": [
+        {
+          "answer_text": "A valid passport",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Adequate knowledge of English or French",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A permanent job",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A university degree",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Immigrants between the ages of 18 and 54 must have adequate knowledge of English or French** in order to become Canadian citizens.",
+      "page_number": 3,
+      "paragraph": "Message to Our Readers",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=Immigrants%20between%20the%20ages%20of%2018%20and%2054%20must%20have%20adequate%20knowledge%20of%20English%20or%20French"
+    },
+    {
+      "question": "What form of government does Canada have?",
+      "possible_answers": [
+        {
+          "answer_text": "A federal state",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A parliamentary democracy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A constitutional monarchy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "All of the above",
+          "is_correct": true
+        }
+      ],
+      "quote": "Canada is **a constitutional monarchy, a parliamentary democracy and a federal state**.",
+      "page_number": 3,
+      "paragraph": "Message to Our Readers",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=a%20constitutional%20monarchy%2C%20a%20parliamentary%20democracy%20and%20a%20federal%20state"
+    },
+    {
+      "question": "What are Canadian citizens required to respect?",
+      "possible_answers": [
+        {
+          "answer_text": "Other countries' laws",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canada's laws and the rights and freedoms of others",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only the rights of other Canadians",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The laws of neighboring countries",
+          "is_correct": false
+        }
+      ],
+      "quote": "Canadian citizens enjoy many rights, but Canadians also have responsibilities. They **must obey Canada\u2019s laws and respect the rights and freedoms of others**.",
+      "page_number": 3,
+      "paragraph": "Message to Our Readers",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/message-readers.html#:~:text=must%20obey%20Canada%E2%80%99s%20laws%20and%20respect%20the%20rights%20and%20freedoms%20of%20others"
     }
   ]
 }
