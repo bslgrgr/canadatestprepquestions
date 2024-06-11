@@ -30,7 +30,8 @@ else:
 
 def generate_new_questions(system_content, part_text):
     request = f"""
-    Based on the following provided text, generate a few new and unique questions:
+    Based on the following provided text, generate a few new and unique questions. 
+    The link to the selected text should only highlight the text marked in bold in the quote.
 
     Provided Text:
     {part_text}
@@ -65,7 +66,7 @@ def process_part(start_line):
     return start_line, "\n".join(part_text)
 
 # Main loop to generate and confirm new questions
-current_line = 0
+current_line = 19
 while current_line < len(document_lines):
     current_line, part_text = process_part(current_line)
     if not part_text:
@@ -100,3 +101,4 @@ while current_line < len(document_lines):
     current_line += 1
 
 print("Finished generating questions.")
+print("Current line: " + current_line)
