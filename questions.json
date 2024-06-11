@@ -4,20 +4,20 @@
       "question": "Which monarch is mentioned in the Oath of Citizenship?",
       "possible_answers": [
         {
-          "answer": "Queen Elizabeth the Second",
-          "correct": false
+          "answer_text": "Queen Elizabeth the Second",
+          "is_correct": false
         },
         {
-          "answer": "King Charles the Third",
-          "correct": true
+          "answer_text": "King Charles the Third",
+          "is_correct": true
         },
         {
-          "answer": "King Edward the Eighth",
-          "correct": false
+          "answer_text": "King Edward the Eighth",
+          "is_correct": false
         },
         {
-          "answer": "Queen Victoria",
-          "correct": false
+          "answer_text": "Queen Victoria",
+          "is_correct": false
         }
       ],
       "quote": "I swear (or affirm) That I will be faithful And bear true allegiance To His Majesty **King Charles the Third**...",
@@ -29,20 +29,20 @@
       "question": "What does the Oath of Citizenship affirm about the Aboriginal and treaty rights?",
       "possible_answers": [
         {
-          "answer": "It denies the recognition of these rights.",
-          "correct": false
+          "answer_text": "It denies the recognition of these rights.",
+          "is_correct": false
         },
         {
-          "answer": "It acknowledges and denies the rights.",
-          "correct": false
+          "answer_text": "It acknowledges and denies the rights.",
+          "is_correct": false
         },
         {
-          "answer": "It recognizes and affirms the rights.",
-          "correct": true
+          "answer_text": "It recognizes and affirms the rights.",
+          "is_correct": true
         },
         {
-          "answer": "It does not mention Aboriginal and treaty rights.",
-          "correct": false
+          "answer_text": "It does not mention Aboriginal and treaty rights.",
+          "is_correct": false
         }
       ],
       "quote": "...Including the Constitution Which **recognizes and affirms** The Aboriginal and treaty rights...",
@@ -154,20 +154,20 @@
       "question": "What significant historical document signed in 1215 in England is also known as the Great Charter of Freedoms?",
       "possible_answers": [
         {
-          "answer": "The Bill of Rights",
-          "correct": false
+          "answer_text": "The Bill of Rights",
+          "is_correct": false
         },
         {
-          "answer": "The Magna Carta",
-          "correct": true
+          "answer_text": "The Magna Carta",
+          "is_correct": true
         },
         {
-          "answer": "The Declaration of Independence",
-          "correct": false
+          "answer_text": "The Declaration of Independence",
+          "is_correct": false
         },
         {
-          "answer": "The English Civil Code",
-          "correct": false
+          "answer_text": "The English Civil Code",
+          "is_correct": false
         }
       ],
       "quote": "Together, these secure for Canadians an 800- year old tradition of ordered liberty, which dates back to the signing of **Magna Carta in 1215 in England** (also known as the Great Charter of Freedoms)...",
@@ -179,20 +179,20 @@
       "question": "What right allows Canadians to challenge unlawful detention by the state?",
       "possible_answers": [
         {
-          "answer": "Freedom of expression",
-          "correct": false
+          "answer_text": "Freedom of expression",
+          "is_correct": false
         },
         {
-          "answer": "Habeas corpus",
-          "correct": true
+          "answer_text": "Habeas corpus",
+          "is_correct": true
         },
         {
-          "answer": "Right to privacy",
-          "correct": false
+          "answer_text": "Right to privacy",
+          "is_correct": false
         },
         {
-          "answer": "Freedom of assembly",
-          "correct": false
+          "answer_text": "Freedom of assembly",
+          "is_correct": false
         }
       ],
       "quote": "**Habeas corpus, the right to challenge unlawful detention by the state**, comes from English common law.",
@@ -204,20 +204,20 @@
       "question": "When was the Constitution of Canada amended to include the Canadian Charter of Rights and Freedoms?",
       "possible_answers": [
         {
-          "answer": "1867",
-          "correct": false
+          "answer_text": "1867",
+          "is_correct": false
         },
         {
-          "answer": "1945",
-          "correct": false
+          "answer_text": "1945",
+          "is_correct": false
         },
         {
-          "answer": "1982",
-          "correct": true
+          "answer_text": "1982",
+          "is_correct": true
         },
         {
-          "answer": "1991",
-          "correct": false
+          "answer_text": "1991",
+          "is_correct": false
         }
       ],
       "quote": "The Constitution of Canada was **amended in 1982** to entrench the Canadian Charter of Rights and Freedoms...",
@@ -229,20 +229,20 @@
       "question": "What guarantees that French and English have equal status in Parliament and throughout the government?",
       "possible_answers": [
         {
-          "answer": "Multiculturalism",
-          "correct": false
+          "answer_text": "Multiculturalism",
+          "is_correct": false
         },
         {
-          "answer": "Mobility Rights",
-          "correct": false
+          "answer_text": "Mobility Rights",
+          "is_correct": false
         },
         {
-          "answer": "Aboriginal Peoples\u2019 Rights",
-          "correct": false
+          "answer_text": "Aboriginal Peoples\u2019 Rights",
+          "is_correct": false
         },
         {
-          "answer": "Official Language Rights and Minority Language Educational Rights",
-          "correct": true
+          "answer_text": "Official Language Rights and Minority Language Educational Rights",
+          "is_correct": true
         }
       ],
       "quote": "**Official Language Rights and Minority Language Educational Rights** \u2014 French and English have equal status in Parliament and throughout the government.",
@@ -254,20 +254,20 @@
       "question": "What phrase in the Canadian Charter of Rights and Freedoms emphasizes the importance of religious traditions in Canadian society?",
       "possible_answers": [
         {
-          "answer": "The supremacy of God and the rule of law",
-          "correct": true
+          "answer_text": "The supremacy of God and the rule of law",
+          "is_correct": true
         },
         {
-          "answer": "Freedom of conscience and religion",
-          "correct": false
+          "answer_text": "Freedom of conscience and religion",
+          "is_correct": false
         },
         {
-          "answer": "Habeas corpus",
-          "correct": false
+          "answer_text": "Habeas corpus",
+          "is_correct": false
         },
         {
-          "answer": "Mobility Rights",
-          "correct": false
+          "answer_text": "Mobility Rights",
+          "is_correct": false
         }
       ],
       "quote": "... the Charter of Rights and Freedoms, which begins with the words, **\u201cWhereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\u201d** This phrase underlines the importance of religious traditions to Canadian society...",
