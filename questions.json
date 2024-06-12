@@ -374,6 +374,398 @@
       "page_number": 9,
       "paragraph": "The Equality of Women and Men",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=are%20severely%20punished"
+    },
+    {
+      "question": "What is one of Canada's founding principles?",
+      "possible_answers": [
+        {
+          "answer_text": "The rule of law",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Respect for diversity",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Economic freedom",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Freedom of speech",
+          "is_correct": false
+        }
+      ],
+      "quote": "One of Canada\u2019s founding principles is the **rule of law**. Individuals and governments are regulated by laws and not by arbitrary actions. No person or group is above the law.",
+      "page_number": 9,
+      "paragraph": "Citizenship Responsibilities",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=rule%20of%20law"
+    },
+    {
+      "question": "Is there compulsory military service in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Yes",
+          "is_correct": false
+        },
+        {
+          "answer_text": "No",
+          "is_correct": true
+        }
+      ],
+      "quote": "There is **no compulsory military service in Canada**.",
+      "page_number": 9,
+      "paragraph": "Defending Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=There%20is%20no%20compulsory%20military%20service%20in%20Canada"
+    },
+    {
+      "question": "What are three branches of the regular Canadian Forces?",
+      "possible_answers": [
+        {
+          "answer_text": "Navy, army, air force",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Police, fire department, army",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coast Guard, air reserves, militia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Navy, police, air force",
+          "is_correct": false
+        }
+      ],
+      "quote": "However, serving in the regular Canadian Forces (**navy, army and air force**) is a noble way to contribute to Canada and an excellent career choice.",
+      "page_number": 9,
+      "paragraph": "Defending Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/rights-resonsibilities-citizenship.html#:~:text=navy%2C%20army%20and%20air%20force"
+    },
+    {
+      "question": "What is Canada's constitutional status?",
+      "possible_answers": [
+        {
+          "answer_text": "A republic",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A federal republic",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A constitutional monarchy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A socialist state",
+          "is_correct": false
+        }
+      ],
+      "quote": "We are the only **constitutional monarchy** in North America.",
+      "page_number": 10,
+      "paragraph": "Who We Are",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=We%20are%20the%20only%20constitutional%20monarchy%20in%20North%20America."
+    },
+    {
+      "question": "What concept is a key phrase in Canada\u2019s original constitutional document?",
+      "possible_answers": [
+        {
+          "answer_text": "Life, Liberty, and the Pursuit of Happiness",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Land, Labor, and Capital",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Freedom, Equality, and Brotherhood",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Peace, Order, and Good Government",
+          "is_correct": true
+        }
+      ],
+      "quote": "Our institutions uphold a commitment to **Peace, Order, and Good Government**, a key phrase in Canada\u2019s original constitutional document in 1867, the British North America Act.",
+      "page_number": 10,
+      "paragraph": "Who We Are",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Peace%2C%20Order%2C%20and%20Good%20Government"
+    },
+    {
+      "question": "Canada's society is described as prosperous and built on what values?",
+      "possible_answers": [
+        {
+          "answer_text": "Equality, democracy, and peace",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ordered liberty, enterprise, hard work and fair play",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Wisdom, courage, and temperance",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Justice, honesty, and responsibility",
+          "is_correct": false
+        }
+      ],
+      "quote": "A belief in **ordered liberty, enterprise, hard work and fair play** have enabled Canadians to build a prosperous society in a rugged environment.",
+      "page_number": 10,
+      "paragraph": "Who We Are",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=ordered%20liberty%2C%20enterprise%2C%20hard%20work%20and%20fair%20play"
+    },
+    {
+      "question": "Who are the three founding peoples of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Aboriginal, French, and Spanish",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aboriginal, British, and German",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aboriginal, French, and British",
+          "is_correct": true
+        },
+        {
+          "answer_text": "French, British, and American",
+          "is_correct": false
+        }
+      ],
+      "quote": "To understand what it means to be Canadian, it is important to know about **our three founding peoples\u2014Aboriginal, French and British**.",
+      "page_number": 10,
+      "paragraph": "Who We Are",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=our%20three%20founding%20peoples%E2%80%94Aboriginal%2C%20French%20and%20British"
+    },
+    {
+      "question": "What does the term 'Aboriginal peoples' refer to in today\u2019s Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Three distinct groups: Indian, Inuit, and M\u00e9tis",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Only the Indian people",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the M\u00e9tis people",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Only the Inuit people",
+          "is_correct": false
+        }
+      ],
+      "quote": "Today, the term Aboriginal peoples refers to **three distinct groups**: Indian refers to all Aboriginal people who are not Inuit or M\u00e9tis.",
+      "page_number": 10,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=three%20distinct%20groups"
+    },
+    {
+      "question": "What achievements have Aboriginal peoples made in today's Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Agriculture, the environment, business and the arts",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Military, politics, journalism, and sports",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Education, law, medicine, and technology",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Space exploration, maritime studies, engineering, and finance",
+          "is_correct": false
+        }
+      ],
+      "quote": "Aboriginal peoples enjoy renewed pride and confidence, and have made significant achievements in **agriculture, the environment, business and the arts**.",
+      "page_number": 10,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=agriculture%2C%20the%20environment%2C%20business%20and%20the%20arts"
+    },
+    {
+      "question": "What rights are included in the Canadian Constitution specifically for Aboriginal peoples?",
+      "possible_answers": [
+        {
+          "answer_text": "Right to freedom of speech",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Aboriginal and treaty rights",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Right to own private property",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Right to bear arms",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Aboriginal and treaty rights are in the Canadian Constitution**.",
+      "page_number": 10,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Aboriginal%20and%20treaty%20rights%20are%20in%20the%20Canadian%20Constitution"
+    },
+    {
+      "question": "When did the federal government apologize to former students of residential schools?",
+      "possible_answers": [
+        {
+          "answer_text": "2008",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1982",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1999",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2015",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 2008, **Ottawa formally apologized to the former students**.",
+      "page_number": 10,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=In%202008%2C%20Ottawa%20formally%20apologized%20to%20the%20former%20students"
+    },
+    {
+      "question": "Where do the majority of M\u00e9tis people live in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "The Arctic",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Pacific provinces",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Maritime provinces",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Prairie provinces",
+          "is_correct": true
+        }
+      ],
+      "quote": "The M\u00e9tis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in **the Prairie provinces**.",
+      "page_number": 11,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=the%20Prairie%20provinces"
+    },
+    {
+      "question": "What proportion of Aboriginal people are M\u00e9tis in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "50%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "30%",
+          "is_correct": true
+        },
+        {
+          "answer_text": "20%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "10%",
+          "is_correct": false
+        }
+      ],
+      "quote": "About **30%** are M\u00e9tis and 4% Inuit.",
+      "page_number": 11,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=30%25"
+    },
+    {
+      "question": "What does 'Inuit' mean in the Inuktitut language?",
+      "possible_answers": [
+        {
+          "answer_text": "The hunters",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The people",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The navigators",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The gatherers",
+          "is_correct": false
+        }
+      ],
+      "quote": "The **Inuit**, which means **\u201cthe people\u201d** in the Inuktitut language, live in small, scattered communities across the Arctic.",
+      "page_number": 11,
+      "paragraph": "Aboriginal Peoples (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Inuit%2C%20which%20means%20%E2%80%9Cthe%20people%E2%80%9D"
+    },
+    {
+      "question": "What percentage of Aboriginal people are First Nations?",
+      "possible_answers": [
+        {
+          "answer_text": "65%",
+          "is_correct": true
+        },
+        {
+          "answer_text": "30%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "50%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "4%",
+          "is_correct": false
+        }
+      ],
+      "quote": "About **65% of the Aboriginal people are First Nations**, while 30% are M\u00e9tis and 4% Inuit.",
+      "page_number": 11,
+      "paragraph": "Aboriginal Peoples (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=About%2065%25%20of%20the%20Aboriginal%20people%20are%20First%20Nations"
+    },
+    {
+      "question": "What is the dialect spoken by the M\u00e9tis called?",
+      "possible_answers": [
+        {
+          "answer_text": "Cree",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Inuktitut",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ojibwe",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Michif",
+          "is_correct": true
+        }
+      ],
+      "quote": "They come from both French- and English-speaking backgrounds and speak their own dialect, **Michif**.",
+      "page_number": 11,
+      "paragraph": "Aboriginal Peoples (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=their%20own%20dialect%2C%20Michif"
     }
   ]
 }
