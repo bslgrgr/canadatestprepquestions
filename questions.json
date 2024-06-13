@@ -766,6 +766,506 @@
       "page_number": 11,
       "paragraph": "Aboriginal Peoples (continuation)",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=their%20own%20dialect%2C%20Michif"
+    },
+    {
+      "question": "Who was John Buchan, the 1st Baron Tweedsmuir?",
+      "possible_answers": [
+        {
+          "answer_text": "A Prime Minister of Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A popular Governor General of Canada",
+          "is_correct": true
+        },
+        {
+          "answer_text": "A Canadian war hero",
+          "is_correct": false
+        },
+        {
+          "answer_text": "A famous Canadian poet",
+          "is_correct": false
+        }
+      ],
+      "quote": "**John Buchan, the 1st Baron Tweedsmuir, was a popular Governor General of Canada (1935-40)**.",
+      "page_number": 11,
+      "paragraph": "Unity in Diversity (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=John%20Buchan%2C%20the%201st%20Baron%20Tweedsmuir%2C%20was%20a%20popular%20Governor%20General%20of%20Canada%20(1935-40)"
+    },
+    {
+      "question": "What did John Buchan believe immigrant groups should do?",
+      "possible_answers": [
+        {
+          "answer_text": "Retain their individuality and contribute to the national character",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Assimilate into the dominant culture quickly",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Keep to themselves and avoid other communities",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Leave their traditions behind entirely",
+          "is_correct": false
+        }
+      ],
+      "quote": "Immigrant groups, he said, **\u201cshould retain their individuality and each make its contribution to the national character.\u201d**",
+      "page_number": 11,
+      "paragraph": "Unity in Diversity (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=%E2%80%9Cshould%20retain%20their%20individuality%20and%20each%20make%20its%20contribution%20to%20the%20national%20character.%E2%80%9D"
+    },
+    {
+      "question": "When did John Buchan serve as Governor General of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1925-1930",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1935-1940",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1945-1950",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1950-1955",
+          "is_correct": false
+        }
+      ],
+      "quote": "John Buchan, the 1st Baron Tweedsmuir, **was a popular Governor General of Canada (1935-40)**.",
+      "page_number": 11,
+      "paragraph": "Unity in Diversity (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=was%20a%20popular%20Governor%20General%20of%20Canada%20(1935-40)"
+    },
+    {
+      "question": "Which province in Canada is officially bilingual?",
+      "possible_answers": [
+        {
+          "answer_text": "Ontario",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quebec",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Manitoba",
+          "is_correct": false
+        },
+        {
+          "answer_text": "New Brunswick",
+          "is_correct": true
+        }
+      ],
+      "quote": "New Brunswick is the only **officially bilingual province**.",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=officially%20bilingual%20province"
+    },
+    {
+      "question": "Who recognized that Quebecois form a nation within a united Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "The Senate",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The House of Commons",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Supreme Court",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Prime Minister",
+          "is_correct": false
+        }
+      ],
+      "quote": "The House of Commons **recognized in 2006 that the Quebecois form a nation within a united Canada**.",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=recognized%20in%202006%20that%20the%20Quebecois%20form%20a%20nation%20within%20a%20united%20Canada"
+    },
+    {
+      "question": "Who are the descendants of French colonists that settled in the Maritime provinces in 1604?",
+      "possible_answers": [
+        {
+          "answer_text": "Acadians",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Quebecois",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Franco-Manitobans",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Franco-Ontarians",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Acadians are the **descendants of French colonists who began settling in what are now the Maritime provinces in 1604**.",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=descendants%20of%20French%20colonists%20who%20began%20settling%20in%20what%20are%20now%20the%20Maritime%20provinces%20in%201604"
+    },
+    {
+      "question": "During what years were the Acadians deported from their homeland?",
+      "possible_answers": [
+        {
+          "answer_text": "1604-1613",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1680-1685",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1755-1763",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1800-1812",
+          "is_correct": false
+        }
+      ],
+      "quote": "Between **1755 and 1763**, during the war between Britain and France, more than two-thirds of the Acadians were deported from their homeland.",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Between%201755%20and%201763"
+    },
+    {
+      "question": "How many Anglophones are there in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "7 million",
+          "is_correct": false
+        },
+        {
+          "answer_text": "18 million",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1 million",
+          "is_correct": false
+        },
+        {
+          "answer_text": "10 million",
+          "is_correct": false
+        }
+      ],
+      "quote": "Today, there are **18 million Anglophones**\u2014people who speak English as a first language...",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Today%2C%20there%20are%2018%20million%20Anglophones"
+    },
+    {
+      "question": "How many Francophones live in Ontario, New Brunswick, and Manitoba?",
+      "possible_answers": [
+        {
+          "answer_text": "7 million",
+          "is_correct": false
+        },
+        {
+          "answer_text": "18 million",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1 million",
+          "is_correct": true
+        },
+        {
+          "answer_text": "500,000",
+          "is_correct": false
+        }
+      ],
+      "quote": "While the majority of Francophones live in the province of Quebec, **one million Francophones live in Ontario, New Brunswick and Manitoba**...",
+      "page_number": 11,
+      "paragraph": "English and French",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=one%20million%20Francophones%20live%20in%20Ontario%2C%20New%20Brunswick%20and%20Manitoba"
+    },
+    {
+      "question": "What is the term used for English speakers in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Francophones",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Allophones",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Anglophones",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Bilinguals",
+          "is_correct": false
+        }
+      ],
+      "quote": "This helps explain why **Anglophones** (English speakers) are generally referred to as English Canadians.",
+      "page_number": 12,
+      "paragraph": "English and French (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=Anglophones"
+    },
+    {
+      "question": "Which groups helped establish the basic way of life in English-speaking areas of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "German, Polish and Russian settlers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "English, Welsh, Scottish and Irish settlers",
+          "is_correct": true
+        },
+        {
+          "answer_text": "French, Spanish and Italian settlers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chinese, Japanese and Korean settlers",
+          "is_correct": false
+        }
+      ],
+      "quote": "The basic way of life in English-speaking areas was established by **hundreds of thousands of English, Welsh, Scottish and Irish settlers**.",
+      "page_number": 12,
+      "paragraph": "English and French (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=hundreds%20of%20thousands%20of%20English%2C%20Welsh%2C%20Scottish%20and%20Irish%20settlers"
+    },
+    {
+      "question": "When did English, Welsh, Scottish and Irish settlers come to Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "From the 1500s to the 20th century",
+          "is_correct": false
+        },
+        {
+          "answer_text": "From the 1600s to the 20th century",
+          "is_correct": true
+        },
+        {
+          "answer_text": "From the 1800s to the present day",
+          "is_correct": false
+        },
+        {
+          "answer_text": "From the 1700s to the 19th century",
+          "is_correct": false
+        }
+      ],
+      "quote": "The basic way of life in English-speaking areas was established by hundreds of thousands of English, Welsh, Scottish and Irish settlers, soldiers and migrants from **the 1600s to the 20th century**.",
+      "page_number": 12,
+      "paragraph": "English and French (continuation)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=the%201600s%20to%20the%2020th%20century"
+    },
+    {
+      "question": "Which term is often used to describe Canada due to its history of welcoming newcomers?",
+      "possible_answers": [
+        {
+          "answer_text": "Land of freedom",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Land of opportunities",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Land of immigrants",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Land of diversity",
+          "is_correct": false
+        }
+      ],
+      "quote": "However, Canada is often referred to as **a land of immigrants** because, over the past 200 years, millions of newcomers have helped to build and defend our way of life.",
+      "page_number": 12,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=a%20land%20of%20immigrants"
+    },
+    {
+      "question": "Since when has the majority of Canadians been born in the country?",
+      "possible_answers": [
+        {
+          "answer_text": "Since the 1800s",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Since the 1700s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Since the 1900s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Since the 1600s",
+          "is_correct": false
+        }
+      ],
+      "quote": "The majority of Canadians were born in this country and this has been true **since the 1800s**.",
+      "page_number": 12,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=since%20the%201800s"
+    },
+    {
+      "question": "Which regions have most immigrants come from since the 1970s?",
+      "possible_answers": [
+        {
+          "answer_text": "European countries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "South American countries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "African countries",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Asian countries",
+          "is_correct": true
+        }
+      ],
+      "quote": "Since the 1970s, **most immigrants have come from Asian countries**.",
+      "page_number": 12,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=most%20immigrants%20have%20come%20from%20Asian%20countries"
+    },
+    {
+      "question": "What is the second most-spoken language at home in Vancouver?",
+      "possible_answers": [
+        {
+          "answer_text": "French",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chinese languages",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Punjabi",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Spanish",
+          "is_correct": false
+        }
+      ],
+      "quote": "In Vancouver, **13% of the population speak Chinese languages at home**; in Toronto, the number is 7%.",
+      "page_number": 13,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=In%20Vancouver%2C%2013%25%20of%20the%20population%20speak%20Chinese%20languages%20at%20home"
+    },
+    {
+      "question": "Which religious affiliation is the largest in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Protestant",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Catholic",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Muslim",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Jewish",
+          "is_correct": false
+        }
+      ],
+      "quote": "The largest religious affiliation is **Catholic**, followed by various Protestant churches.",
+      "page_number": 13,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=The%20largest%20religious%20affiliation%20is%20Catholic"
+    },
+    {
+      "question": "What percentage of Toronto's population speaks Chinese languages at home?",
+      "possible_answers": [
+        {
+          "answer_text": "5%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "7%",
+          "is_correct": true
+        },
+        {
+          "answer_text": "10%",
+          "is_correct": false
+        },
+        {
+          "answer_text": "15%",
+          "is_correct": false
+        }
+      ],
+      "quote": "In Vancouver, 13% of the population speak Chinese languages at home; **in Toronto, the number is 7%.**",
+      "page_number": 13,
+      "paragraph": "Diversity in Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html#:~:text=in%20Toronto%2C%20the%20number%20is%207%25."
+    },
+    {
+      "question": "Why were the native peoples called Indians by the first European explorers?",
+      "possible_answers": [
+        {
+          "answer_text": "Because they came from India.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because they lived in the interior regions.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Because the explorers thought they had reached the East Indies.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Because it was a term given by the local Aboriginal tribes.",
+          "is_correct": false
+        }
+      ],
+      "quote": "When Europeans explored Canada they found all regions occupied by native peoples they called Indians, **because the first explorers thought they had reached the East Indies**.",
+      "page_number": 14,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=because%20the%20first%20explorers%20thought%20they%20had%20reached%20the%20East%20Indies"
+    },
+    {
+      "question": "What was one of the consequences of European arrival for Aboriginal peoples?",
+      "possible_answers": [
+        {
+          "answer_text": "Enslavement by Europeans.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Formation of strong economic, religious, and military bonds.",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Complete destruction of their culture.",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Complete isolation from other communities.",
+          "is_correct": false
+        }
+      ],
+      "quote": "However, Aboriginals and Europeans **formed strong economic, religious and military bonds** in the first 200 years of coexistence which laid the foundations of Canada.",
+      "page_number": 14,
+      "paragraph": "Aboriginal Peoples",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=However%2C%20Aboriginals%20and%20Europeans%20formed%20strong%20economic%2C%20religious%20and%20military%20bonds"
     }
   ]
 }

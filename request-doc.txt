@@ -165,8 +165,8 @@ Celebrating Fête Nationale, Gatineau, Quebec
 Acadian fiddler, Village of Grande-Anse, New Brunswick
 
 Page: 11
-Paragraph: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html
-Online page: English and French
+Paragraph: English and French
+Online page: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/who-are-canadians.html
 Text:
 Canadian society today stems largely from the English-speaking and French-speaking Christian civilizations that were brought here from Europe by settlers. English and French define the reality of day-to-day life for most people and are the country’s official languages. The federal government is required by law to provide services throughout Canada in English and French.
 
