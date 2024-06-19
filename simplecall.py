@@ -65,13 +65,13 @@ question_schema = {
 }
 
 # Validate the new questions JSON
-def validate_questions_json(new_questions):
+def validate_questions_json(questions, questions_name):
     try:
-        validate(instance=new_questions, schema=question_schema)
-        print("New questions JSON is valid.")
+        validate(instance=questions, schema=question_schema)
+        print(questions_name + " JSON is valid.")
         return True
     except jsonschema.exceptions.ValidationError as err:
-        print("New questions JSON is invalid:", err)
+        print(questions_name + " JSON is invalid:", err)
         return False
 
 
@@ -125,8 +125,11 @@ def process_part(start_line):
         cur_line = i
     return cur_line, "\n".join(part_text)
 
+# Validate current questions
+validate_questions_json(previous_questions, "Existed questions")
+
 # Main loop to generate and confirm new questions
-current_line = 260
+current_line = 274
 while current_line < len(document_lines):
     current_line, part_text = process_part(current_line)
     if not part_text:
@@ -138,7 +141,7 @@ while current_line < len(document_lines):
     while True:
         new_questions = generate_new_questions(system_content, part_text, previous_questions)
 
-        if validate_questions_json(new_questions):
+        if validate_questions_json(new_questions, "New questions"):
             for question in new_questions['questions']:
                 print("\nNew Question Generated:")
                 print(json.dumps(question, indent=2))

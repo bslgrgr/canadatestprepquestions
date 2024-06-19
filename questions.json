@@ -1491,6 +1491,181 @@
       "page_number": 14,
       "paragraph": "Exploring a River, Naming Canada",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=By%20the%201550s"
+    },
+    {
+      "question": "Who established the first European settlement north of Florida in 1604?",
+      "possible_answers": [
+        {
+          "answer_text": "Jean Talon and Count Frontenac",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pierre de Monts and Samuel de Champlain",
+          "is_correct": true
+        },
+        {
+          "answer_text": "John Cabot and Jacques Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Henry Hudson and Christopher Columbus",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1604, **the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain**, first on St. Croix Island (in present-day Maine), then at Port-Royal, in Acadia (present-day Nova Scotia).",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=the%20first%20European%20settlement%20north%20of%20Florida%20was%20established%20by%20French%20explorers%20Pierre%20de%20Monts%20and%20Samuel%20de%20Champlain"
+    },
+    {
+      "question": "In what year did Samuel de Champlain build a fortress at Qu\u00e9bec City?",
+      "possible_answers": [
+        {
+          "answer_text": "1701",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1608",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1604",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1620",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1608 Champlain built a fortress at what is now Qu\u00e9bec City**.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201608%20Champlain%20built%20a%20fortress%20at%20what%20is%20now%20Qu%C3%A9bec%20City"
+    },
+    {
+      "question": "What drove the fur-trade economy in the collaboration between the French and Aboriginal people?",
+      "possible_answers": [
+        {
+          "answer_text": "The demand for mink coats in Europe",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The demand for silk in Europe",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The demand for beaver pelts in Europe",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The demand for buffalo hides in Europe",
+          "is_correct": false
+        }
+      ],
+      "quote": "The French and Aboriginal people collaborated in the vast fur-trade economy, driven by the **demand for beaver pelts in Europe**.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=driven%20by%20the%20demand%20for%20beaver%20pelts%20in%20Europe"
+    },
+    {
+      "question": "When did the French and the Iroquois make peace?",
+      "possible_answers": [
+        {
+          "answer_text": "1608",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1620",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1701",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1755",
+          "is_correct": false
+        }
+      ],
+      "quote": "The French and the Iroquois **made peace in 1701**.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20French%20and%20the%20Iroquois%20made%20peace%20in%201701"
+    },
+    {
+      "question": "With which First Nations did Champlain ally the colony?",
+      "possible_answers": [
+        {
+          "answer_text": "Algonquin, Montagnais, and Huron",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Iroquois, Mi'kmaq, and Haida",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Inuit, Blackfoot, and Cree",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Dene, Coast Salish, and Nuu-chah-nulth",
+          "is_correct": false
+        }
+      ],
+      "quote": "Champlain **allied the colony with the Algonquin, Montagnais, and Huron**, historic enemies of the Iroquois.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=allied%20the%20colony%20with%20the%20Algonquin%2C%20Montagnais%2C%20and%20Huron"
+    },
+    {
+      "question": "Who were the French explorers that established the first European settlement in 1604?",
+      "possible_answers": [
+        {
+          "answer_text": "Pierre de Monts and Samuel de Champlain",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Henry Hudson and Christopher Columbus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "John Cabot and Jacques Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Jean Talon and Count Frontenac",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1604, the first European settlement north of Florida was established by French explorers **Pierre de Monts and Samuel de Champlain**.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Pierre%20de%20Monts%20and%20Samuel%20de%20Champlain"
+    },
+    {
+      "question": "Which leaders built a French Empire in North America?",
+      "possible_answers": [
+        {
+          "answer_text": "Jean Talon, Bishop Laval, and Count Frontenac",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Pierre de Monts, Samuel de Champlain, and Henry Hudson",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Jacques Cartier, John Cabot, and Christopher Columbus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Jean de Br\u00e9beuf, Jean Talon, and Bishop Laval",
+          "is_correct": false
+        }
+      ],
+      "quote": "Outstanding leaders like **Jean Talon, Bishop Laval, and Count Frontenac built a French Empire in North America**.",
+      "page_number": 15,
+      "paragraph": "Royal New France",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Jean%20Talon%2C%20Bishop%20Laval%2C%20and%20Count%20Frontenac%20built%20a%20French%20Empire%20in%20North%20America"
     }
   ]
 }
