@@ -1666,6 +1666,106 @@
       "page_number": 15,
       "paragraph": "Royal New France",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Jean%20Talon%2C%20Bishop%20Laval%2C%20and%20Count%20Frontenac%20built%20a%20French%20Empire%20in%20North%20America"
+    },
+    {
+      "question": "Who refused to surrender Quebec to the English in 1690?",
+      "possible_answers": [
+        {
+          "answer_text": "Count Frontenac",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir Guy Carleton",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pierre Le Moyne, Sieur d\u2019Iberville",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lord Dorchester",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Count Frontenac** refused to surrender Quebec to the English in 1690, saying: 'My only reply will be from the mouths of my cannons!'",
+      "page_number": 15,
+      "paragraph": "Royal New France (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Count%20Frontenac"
+    },
+    {
+      "question": "Which hero of New France won many victories over the English in the late 17th and early 18th centuries?",
+      "possible_answers": [
+        {
+          "answer_text": "Pierre Le Moyne, Sieur d\u2019Iberville",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Count Frontenac",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Guy Carleton",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lord Dorchester",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Pierre Le Moyne, Sieur d\u2019Iberville, was a great hero of New France, winning many victories over the English**...",
+      "page_number": 15,
+      "paragraph": "Royal New France (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Pierre%20Le%20Moyne%2C%20Sieur%20d%E2%80%99Iberville%2C%20was%20a%20great%20hero%20of%20New%20France"
+    },
+    {
+      "question": "Who defended the rights of the Canadiens and defeated an American military invasion of Quebec in 1775?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir Guy Carleton",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Count Frontenac",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Pierre Le Moyne, Sieur d\u2019Iberville",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lord Dorchester",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Sir Guy Carleton (Lord Dorchester), as Governor of Quebec**, defended the rights of the Canadiens, defeated an American military invasion of Quebec in 1775...",
+      "page_number": 15,
+      "paragraph": "Royal New France (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Sir%20Guy%20Carleton"
+    },
+    {
+      "question": "In which year did Sir Guy Carleton defeat an American military invasion of Quebec?",
+      "possible_answers": [
+        {
+          "answer_text": "1775",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1783",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1690",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1700",
+          "is_correct": false
+        }
+      ],
+      "quote": "Sir Guy Carleton (Lord Dorchester)... **defeated an American military invasion of Quebec in 1775**...",
+      "page_number": 15,
+      "paragraph": "Royal New France (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=defeated%20an%20American%20military%20invasion%20of%20Quebec%20in%201775"
     }
   ]
 }
