@@ -2141,6 +2141,356 @@
       "page_number": 15,
       "paragraph": "United Empire Loyalists",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=some%20black%20Nova%20Scotians"
+    },
+    {
+      "question": "When was the first representative assembly elected in Halifax, Nova Scotia?",
+      "possible_answers": [
+        {
+          "answer_text": "1758",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1773",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1785",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1791",
+          "is_correct": false
+        }
+      ],
+      "quote": "The first representative assembly was elected in **Halifax, Nova Scotia, in 1758**.",
+      "page_number": 16,
+      "paragraph": "The Beginnings of Democracy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Halifax%2C%20Nova%20Scotia%2C%20in%201758"
+    },
+    {
+      "question": "What significant change did the Constitutional Act of 1791 make to the Province of Quebec?",
+      "possible_answers": [
+        {
+          "answer_text": "It divided Quebec into Upper and Lower Canada",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It merged Quebec and Ontario into one province",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It established the first elected legislative assemblies in all of Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It renamed the Province of Quebec to Canada",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Constitutional Act of 1791 **divided the Province of Quebec into Upper Canada (later Ontario)**, which was mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking.",
+      "page_number": 16,
+      "paragraph": "The Beginnings of Democracy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=divided%20the%20Province%20of%20Quebec%20into%20Upper%20Canada%20(later%20Ontario)"
+    },
+    {
+      "question": "When did Prince Edward Island establish their representative assembly?",
+      "possible_answers": [
+        {
+          "answer_text": "1758",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1773",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1785",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1791",
+          "is_correct": false
+        }
+      ],
+      "quote": "Prince Edward Island **followed in 1773**",
+      "page_number": 16,
+      "paragraph": "The Beginnings of Democracy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Prince%20Edward%20Island%20followed%20in%201773"
+    },
+    {
+      "question": "Which Act divided the Province of Quebec into Upper Canada and Lower Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "The Constitutional Act of 1791",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The British North America Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Quebec Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Act of Union 1840",
+          "is_correct": false
+        }
+      ],
+      "quote": "The **Constitutional Act of 1791** divided the Province of Quebec into Upper Canada (later Ontario)...",
+      "page_number": 16,
+      "paragraph": "The Beginnings of Democracy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Constitutional%20Act%20of%201791"
+    },
+    {
+      "question": "Which colony had its first representative assembly in 1773?",
+      "possible_answers": [
+        {
+          "answer_text": "Prince Edward Island",
+          "is_correct": true
+        },
+        {
+          "answer_text": "New Brunswick",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Upper Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Nova Scotia",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Prince Edward Island followed in 1773**, New Brunswick in 1785.",
+      "page_number": 16,
+      "paragraph": "The Beginnings of Democracy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Prince%20Edward%20Island%20followed%20in%201773"
+    },
+    {
+      "question": "Who led Upper Canada towards the abolition of slavery in 1793?",
+      "possible_answers": [
+        {
+          "answer_text": "William Wilberforce",
+          "is_correct": false
+        },
+        {
+          "answer_text": "John Graves Simcoe",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Henry Dundas",
+          "is_correct": false
+        },
+        {
+          "answer_text": "George Washington",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1793, Upper Canada, led by Lieutenant Governor John Graves Simcoe**, a Loyalist military officer, became the first province in the Empire to move toward abolition.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201793%2C%20Upper%20Canada%2C%20led%20by%20Lieutenant%20Governor%20John%20Graves%20Simcoe"
+    },
+    {
+      "question": "In what year did the British Parliament prohibit the buying and selling of slaves?",
+      "possible_answers": [
+        {
+          "answer_text": "1807",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1793",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1833",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1865",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1807, the British Parliament prohibited the buying and selling of slaves**.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201807%2C%20the%20British%20Parliament%20prohibited%20the%20buying%20and%20selling%20of%20slaves"
+    },
+    {
+      "question": "Which network helped slaves escape to Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "The Freedom Trail",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Southern Express",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Underground Railroad",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Liberty Passage",
+          "is_correct": false
+        }
+      ],
+      "quote": "Thousands of slaves escaped from the United States, followed \u201cthe North Star\u201d and settled in Canada via **the Underground Railroad**, a Christian anti-slavery network.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=via%20the%20Underground%20Railroad"
+    },
+    {
+      "question": "What did the British Parliament do in 1833 regarding slavery?",
+      "possible_answers": [
+        {
+          "answer_text": "Encouraged the expansion of slavery",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Abolished slavery throughout the Empire",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Introduced slave taxation",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Increased the buying and selling of slaves",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1833 abolished slavery throughout the Empire**.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1833%20abolished%20slavery%20throughout%20the%20Empire"
+    },
+    {
+      "question": "Who was originally the founder of the City of York, now known as Toronto?",
+      "possible_answers": [
+        {
+          "answer_text": "Mary Ann Shadd Cary",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lieutenant Colonel John Graves Simcoe",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir John A. Macdonald",
+          "is_correct": false
+        },
+        {
+          "answer_text": "William Lyon Mackenzie",
+          "is_correct": false
+        }
+      ],
+      "quote": "Lieutenant Colonel John Graves Simcoe was Upper Canada\u2019s first Lieutenant Governor and **founder of the City of York (now Toronto)**.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=founder%20of%20the%20City%20of%20York%20(now%20Toronto)"
+    },
+    {
+      "question": "When did Mary Ann Shadd Cary become the first woman publisher in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1843",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1853",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1863",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1873",
+          "is_correct": false
+        }
+      ],
+      "quote": "**In 1853 she became the first woman publisher in Canada**, helping to found and edit The Provincial Freeman.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201853%20she%20became%20the%20first%20woman%20publisher%20in%20Canada"
+    },
+    {
+      "question": "Which province was the first in the British Empire to abolish slavery?",
+      "possible_answers": [
+        {
+          "answer_text": "Nova Scotia",
+          "is_correct": false
+        },
+        {
+          "answer_text": "New Brunswick",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Upper Canada",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lower Canada",
+          "is_correct": false
+        }
+      ],
+      "quote": "Simcoe also made **Upper Canada the first province in the British Empire to abolish slavery**.",
+      "page_number": 16,
+      "paragraph": "Abolition of Slavery (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Upper%20Canada%20the%20first%20province%20in%20the%20British%20Empire%20to%20abolish%20slavery"
+    },
+    {
+      "question": "Which company came to dominate the fur trade in the northwest from Fort Garry to Fort Victoria?",
+      "possible_answers": [
+        {
+          "answer_text": "North West Company",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Montreal Fur Company",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hudson\u2019s Bay Company",
+          "is_correct": true
+        },
+        {
+          "answer_text": "St. Lawrence Company",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Hudson\u2019s Bay Company, with French, British and Aboriginal employees, **came to dominate the trade in the northwest from Fort Garry (Winnipeg) and Fort Edmonton to Fort Langley (near Vancouver) and Fort Victoria**\u2014trading posts that later became cities.",
+      "page_number": 16,
+      "paragraph": "A Growing Economy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=came%20to%20dominate%20the%20trade%20in%20the%20northwest%20from%20Fort%20Garry%20(Winnipeg)%20and%20Fort%20Edmonton%20to%20Fort%20Langley%20(near%20Vancouver)%20and%20Fort%20Victoria"
+    },
+    {
+      "question": "When did the Montreal Stock Exchange open?",
+      "possible_answers": [
+        {
+          "answer_text": "1792",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1825",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1832",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1857",
+          "is_correct": false
+        }
+      ],
+      "quote": "The first financial institutions opened in the late 18th and early 19th centuries. **The Montreal Stock Exchange opened in 1832.**",
+      "page_number": 16,
+      "paragraph": "A Growing Economy",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Montreal%20Stock%20Exchange%20opened%20in%201832"
     }
   ]
 }
