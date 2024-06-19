@@ -1766,6 +1766,381 @@
       "page_number": 15,
       "paragraph": "Royal New France (photo)",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=defeated%20an%20American%20military%20invasion%20of%20Quebec%20in%201775"
+    },
+    {
+      "question": "Which company was granted exclusive trading rights over the watershed draining into Hudson Bay in 1670?",
+      "possible_answers": [
+        {
+          "answer_text": "North West Company",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Montreal Fur Company",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Hudson\u2019s Bay Company",
+          "is_correct": true
+        },
+        {
+          "answer_text": "St. Lawrence Company",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1670, King Charles II of England **granted the Hudson\u2019s Bay Company exclusive trading rights over the watershed draining into Hudson Bay**.",
+      "page_number": 15,
+      "paragraph": "Struggle for a Continent",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=granted%20the%20Hudson%E2%80%99s%20Bay%20Company%20exclusive%20trading%20rights%20over%20the%20watershed%20draining%20into%20Hudson%20Bay"
+    },
+    {
+      "question": "Who were the skilled and courageous men that travelled by canoe and formed strong alliances with First Nations?",
+      "possible_answers": [
+        {
+          "answer_text": "Samurais",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Voyageurs and coureurs des bois",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Explorers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "North West Company traders",
+          "is_correct": false
+        }
+      ],
+      "quote": "The skilled and courageous men who travelled by canoe were called **voyageurs and coureurs des bois**, and formed strong alliances with First Nations.",
+      "page_number": 15,
+      "paragraph": "Struggle for a Continent",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20skilled%20and%20courageous%20men%20who%20travelled%20by%20canoe%20were%20called%20voyageurs%20and%20coureurs%20des%20bois"
+    },
+    {
+      "question": "In the 1700s, which two countries battled for control of North America?",
+      "possible_answers": [
+        {
+          "answer_text": "Spain and Portugal",
+          "is_correct": false
+        },
+        {
+          "answer_text": "France and Great Britain",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Netherlands and France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Germany and Italy",
+          "is_correct": false
+        }
+      ],
+      "quote": "In the 1700s **France and Great Britain battled for control of North America**.",
+      "page_number": 15,
+      "paragraph": "Struggle for a Continent",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%20the%201700s%20France%20and%20Great%20Britain%20battled%20for%20control%20of%20North%20America"
+    },
+    {
+      "question": "What event marked the end of France\u2019s empire in America?",
+      "possible_answers": [
+        {
+          "answer_text": "Seven Years' War",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Battle of the Plains of Abraham",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Signing of the Treaty of Paris",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Battle of Waterloo",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1759, the British defeated the French in the **Battle of the Plains of Abraham at Qu\u00e9bec City \u2014 marking the end of France\u2019s empire in America**.",
+      "page_number": 15,
+      "paragraph": "Struggle for a Continent",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=marking%20the%20end%20of%20France%E2%80%99s%20empire%20in%20America"
+    },
+    {
+      "question": "Which commanders were killed during the Battle of the Plains of Abraham?",
+      "possible_answers": [
+        {
+          "answer_text": "Brigadier James Wolfe and the Marquis de Montcalm",
+          "is_correct": true
+        },
+        {
+          "answer_text": "General James Robertson and the Count of Montjoy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Henry Hudson and Samuel de Champlain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "John Cabot and Jacques Cartier",
+          "is_correct": false
+        }
+      ],
+      "quote": "The commanders of both armies, **Brigadier James Wolfe and the Marquis de Montcalm**, were killed leading their troops in battle.",
+      "page_number": 15,
+      "paragraph": "Struggle for a Continent",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Brigadier%20James%20Wolfe%20and%20the%20Marquis%20de%20Montcalm"
+    },
+    {
+      "question": "What new name was given to the colony by Great Britain after the war?",
+      "possible_answers": [
+        {
+          "answer_text": "New France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ontario",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quebec City",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Province of Quebec",
+          "is_correct": true
+        }
+      ],
+      "quote": "Following the war, **Great Britain renamed the colony the \u201cProvince of Quebec.\u201d** The Frenchspeaking Catholic people, known as habitants or Canadiens, strove to preserve their way of life in the English-speaking, Protestant-ruled British Empire.",
+      "page_number": 15,
+      "paragraph": "The Province of Quebec",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Following%20the%20war%2C%20Great%20Britain%20renamed%20the%20colony%20the%20%E2%80%9CProvince%20of%20Quebec.%E2%80%9D"
+    },
+    {
+      "question": "What did the French-speaking Catholic people in Quebec strive to preserve?",
+      "possible_answers": [
+        {
+          "answer_text": "Their military strength",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Their national borders",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Their way of life",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Their economic system",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Frenchspeaking Catholic people, known as habitants or Canadiens, **strove to preserve their way of life** in the English-speaking, Protestant-ruled British Empire.",
+      "page_number": 15,
+      "paragraph": "The Province of Quebec",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Frenchspeaking%20Catholic%20people%2C%20known%20as%20habitants%20or%20Canadiens%2C%20strove%20to%20preserve%20their%20way%20of%20life"
+    },
+    {
+      "question": "What were the French-speaking Catholic people in Quebec also known as?",
+      "possible_answers": [
+        {
+          "answer_text": "Voyageurs",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Acadians",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Coues River Bois",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Habitants or Canadiens",
+          "is_correct": true
+        }
+      ],
+      "quote": "The Frenchspeaking Catholic people, known as **habitants or Canadiens**, strove to preserve their way of life in the English-speaking, Protestant-ruled British Empire.",
+      "page_number": 15,
+      "paragraph": "The Province of Quebec",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Frenchspeaking%20Catholic%20people%2C%20known%20as%20habitants%20or%20Canadiens"
+    },
+    {
+      "question": "What did the Quebec Act of 1774 allow for Catholics?",
+      "possible_answers": [
+        {
+          "answer_text": "To own land",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To sell goods",
+          "is_correct": false
+        },
+        {
+          "answer_text": "To hold public office",
+          "is_correct": true
+        },
+        {
+          "answer_text": "To serve in the military",
+          "is_correct": false
+        }
+      ],
+      "quote": "It allowed **religious freedom for Catholics and permitted them to hold public office**, a practice not then allowed in Britain.",
+      "page_number": 15,
+      "paragraph": "A Tradition of Accommodation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=It%20allowed%20religious%20freedom%20for%20Catholics%20and%20permitted%20them%20to%20hold%20public%20office"
+    },
+    {
+      "question": "Which act restored French civil law while maintaining British criminal law?",
+      "possible_answers": [
+        {
+          "answer_text": "Constitution Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quebec Act",
+          "is_correct": true
+        },
+        {
+          "answer_text": "British North America Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "War Measures Act",
+          "is_correct": false
+        }
+      ],
+      "quote": "The **Quebec Act** restored French civil law while maintaining British criminal law.",
+      "page_number": 15,
+      "paragraph": "A Tradition of Accommodation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Quebec%20Act%20restored%20French%20civil%20law%20while%20maintaining%20British%20criminal%20law"
+    },
+    {
+      "question": "When was the Quebec Act passed by the British Parliament?",
+      "possible_answers": [
+        {
+          "answer_text": "1774",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1783",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1763",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1791",
+          "is_correct": false
+        }
+      ],
+      "quote": "To better govern the French Roman Catholic majority, the British Parliament passed the **Quebec Act of 1774**.",
+      "page_number": 15,
+      "paragraph": "A Tradition of Accommodation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=British%20Parliament%20passed%20the%20Quebec%20Act%20of%201774"
+    },
+    {
+      "question": "In what year did the 13 British colonies to the south of Quebec declare independence?",
+      "possible_answers": [
+        {
+          "answer_text": "1776",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1792",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1800",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1812",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1776**, the 13 British colonies to the south of Quebec declared independence and formed the United States.",
+      "page_number": 15,
+      "paragraph": "United Empire Loyalists",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201776"
+    },
+    {
+      "question": "Who led thousands of Loyalist Mohawk Indians into Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Joseph Brant",
+          "is_correct": true
+        },
+        {
+          "answer_text": "George Washington",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Isaac Brock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tecumseh",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Joseph Brant led thousands of Loyalist Mohawk Indians into Canada**.",
+      "page_number": 15,
+      "paragraph": "United Empire Loyalists",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Joseph%20Brant%20led%20thousands%20of%20Loyalist%20Mohawk%20Indians%20into%20Canada."
+    },
+    {
+      "question": "Approximately how many black Loyalists came north seeking a better life?",
+      "possible_answers": [
+        {
+          "answer_text": "1,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "3,000",
+          "is_correct": true
+        },
+        {
+          "answer_text": "4,000",
+          "is_correct": false
+        }
+      ],
+      "quote": "About **3,000 black Loyalists**, freedmen and slaves, came north seeking a better life.",
+      "page_number": 15,
+      "paragraph": "United Empire Loyalists",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=About%203%2C000%20black%20Loyalists"
+    },
+    {
+      "question": "Which group of Loyalists established Freetown, Sierra Leone (West Africa) in 1792?",
+      "possible_answers": [
+        {
+          "answer_text": "French Loyalists",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Black Nova Scotians",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Dutch Loyalists",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Scandinavian Loyalists",
+          "is_correct": false
+        }
+      ],
+      "quote": "In turn, in 1792, **some black Nova Scotians** moved on to establish Freetown, Sierra Leone (West Africa), a new British colony for freed slaves.",
+      "page_number": 15,
+      "paragraph": "United Empire Loyalists",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=some%20black%20Nova%20Scotians"
     }
   ]
 }
