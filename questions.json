@@ -2491,6 +2491,181 @@
       "page_number": 16,
       "paragraph": "A Growing Economy",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Montreal%20Stock%20Exchange%20opened%20in%201832"
+    },
+    {
+      "question": "What was the outcome of the American attempt to conquer Canada by 1814?",
+      "possible_answers": [
+        {
+          "answer_text": "It was successful",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It partially succeeded",
+          "is_correct": false
+        },
+        {
+          "answer_text": "It failed",
+          "is_correct": true
+        },
+        {
+          "answer_text": "It was unresolved",
+          "is_correct": false
+        }
+      ],
+      "quote": "By 1814, **the American attempt to conquer Canada had failed**.",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=the%20American%20attempt%20to%20conquer%20Canada%20had%20failed"
+    },
+    {
+      "question": "Who was killed while defending against an American attack at Queenston Heights?",
+      "possible_answers": [
+        {
+          "answer_text": "Captain James T. Kirk",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Chief Tecumseh",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Major-General Sir Isaac Brock",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lieutenant-Colonel Charles de Salaberry",
+          "is_correct": false
+        }
+      ],
+      "quote": "Major-General Sir Isaac Brock captured Detroit but was **killed while defending against an American attack at Queenston Heights**...",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=but%20was%20killed%20while%20defending%20against%20an%20American%20attack%20at%20Queenston%20Heights"
+    },
+    {
+      "question": "What action did the Americans take in York (now Toronto) in 1813?",
+      "possible_answers": [
+        {
+          "answer_text": "Captured British soldiers",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Burned Government House and the Parliament Buildings",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Signed a peace treaty",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Built a fort",
+          "is_correct": false
+        }
+      ],
+      "quote": "**The Americans burned Government House and the Parliament Buildings in York** (now Toronto).",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201813%20the%20Americans%20burned%20Government%20House%20and%20the%20Parliament%20Buildings%20in%20York"
+    },
+    {
+      "question": "Who led an expedition from Nova Scotia to burn down the White House?",
+      "possible_answers": [
+        {
+          "answer_text": "Chief Tecumseh",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Major-General Sir Isaac Brock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lieutenant-Colonel Charles de Salaberry",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Major-General Robert Ross",
+          "is_correct": true
+        }
+      ],
+      "quote": "In retaliation in 1814, **Major-General Robert Ross led an expedition from Nova Scotia that burned down the White House** and other public buildings in Washington, D.C.",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Major%2DGeneral%20Robert%20Ross%20led%20an%20expedition%20from%20Nova%20Scotia%20that%20burned%20down%20the%20White%20House"
+    },
+    {
+      "question": "What is partly an outcome of the War of 1812?",
+      "possible_answers": [
+        {
+          "answer_text": "The division of Quebec into Upper and Lower Canada",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The present-day Canada-U.S.A. border",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The creation of the fur-trade economy",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The adoption of the maple leaf as a national symbol",
+          "is_correct": false
+        }
+      ],
+      "quote": "The present-day **Canada-U.S.A. border is partly an outcome of the War of 1812**...",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20present%2Dday%20Canada%2DU.S.A.%20border%20is%20partly%20an%20outcome%20of%20the%20War%20of%201812"
+    },
+    {
+      "question": "Who sent some of his best soldiers to defend Canada in 1814?",
+      "possible_answers": [
+        {
+          "answer_text": "The Duke of Wellington",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Napoleon Bonaparte",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Thomas Jefferson",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir George Prevost",
+          "is_correct": false
+        }
+      ],
+      "quote": "The **Duke of Wellington sent some of his best soldiers to defend Canada in 1814**.",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Duke%20of%20Wellington%20sent%20some%20of%20his%20best%20soldiers%20to%20defend%20Canada%20in%201814"
+    },
+    {
+      "question": "Who made a 19 mile journey to warn of a planned American attack?",
+      "possible_answers": [
+        {
+          "answer_text": "Laura Secord",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Isaac Brock",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Tecumseh",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Wellington",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1813, **Laura Secord, pioneer wife and mother of five children, made a dangerous 19 mile (30 km) journey on foot to warn Lieutenant James FitzGibbon of a planned American attack**.",
+      "page_number": 17,
+      "paragraph": "The War of 1812: The Fight for Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201813%2C%20Laura%20Secord%2C%20pioneer%20wife%20and%20mother%20of%20five%20children%2C%20made%20a%20dangerous%2019%20mile%20(30%20km)%20journey%20on%20foot%20to%20warn%20Lieutenant%20James%20FitzGibbon%20of%20a%20planned%20American%20attack"
     }
   ]
 }

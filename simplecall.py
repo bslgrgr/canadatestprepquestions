@@ -129,7 +129,7 @@ def process_part(start_line):
 validate_questions_json(previous_questions, "Existed questions")
 
 # Main loop to generate and confirm new questions
-current_line = 350
+current_line = 362
 while current_line < len(document_lines):
     current_line, part_text = process_part(current_line)
     if not part_text:
