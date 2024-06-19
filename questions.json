@@ -1266,6 +1266,231 @@
       "page_number": 14,
       "paragraph": "Aboriginal Peoples",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=However%2C%20Aboriginals%20and%20Europeans%20formed%20strong%20economic%2C%20religious%20and%20military%20bonds"
+    },
+    {
+      "question": "Who was the first European to draw a map of Canada\u2019s East Coast?",
+      "possible_answers": [
+        {
+          "answer_text": "John Cabot",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Christopher Columbus",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Jacques Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Martin Frobisher",
+          "is_correct": false
+        }
+      ],
+      "quote": "European exploration began in earnest in 1497 with the expedition of **John Cabot**, who was the first to draw a map of Canada\u2019s East Coast.",
+      "page_number": 14,
+      "paragraph": "The First Europeans",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=John%20Cabot"
+    },
+    {
+      "question": "When did the Vikings from Iceland reach Labrador and the island of Newfoundland?",
+      "possible_answers": [
+        {
+          "answer_text": "500 years ago",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1,000 years ago",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1,500 years ago",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2,000 years ago",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Vikings from Iceland who colonized Greenland **1,000 years ago** also reached Labrador and the island of Newfoundland.",
+      "page_number": 14,
+      "paragraph": "The First Europeans",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1%2C000%20years%20ago"
+    },
+    {
+      "question": "In what year did John Cabot set foot on Newfoundland or Cape Breton Island?",
+      "possible_answers": [
+        {
+          "answer_text": "1608",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1535",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1497",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1610",
+          "is_correct": false
+        }
+      ],
+      "quote": "setting foot on Newfoundland or Cape Breton Island in **1497** and claiming the New Founde Land for England.",
+      "page_number": 14,
+      "paragraph": "The First Europeans (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1497"
+    },
+    {
+      "question": "When did English settlement in Canada begin?",
+      "possible_answers": [
+        {
+          "answer_text": "1497",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1500",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1534",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1610",
+          "is_correct": true
+        }
+      ],
+      "quote": "**English settlement did not begin until 1610**",
+      "page_number": 14,
+      "paragraph": "The First Europeans (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=English%20settlement%20did%20not%20begin%20until%201610"
+    },
+    {
+      "question": "John Cabot was an immigrant from which country to England?",
+      "possible_answers": [
+        {
+          "answer_text": "France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Spain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Italy",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Portugal",
+          "is_correct": false
+        }
+      ],
+      "quote": "**John Cabot, an Italian immigrant to England**, was the first to map Canada\u2019s Atlantic shore.",
+      "page_number": 14,
+      "paragraph": "The First Europeans (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=an%20Italian%20immigrant%20to%20England"
+    },
+    {
+      "question": "Between which years did Jacques Cartier make his voyages across the Atlantic?",
+      "possible_answers": [
+        {
+          "answer_text": "1530 and 1540",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1534 and 1542",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1550 and 1560",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1520 and 1530",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Between 1534 and 1542**, Jacques Cartier made three voyages across the Atlantic, claiming the land for King Francis I of France.",
+      "page_number": 14,
+      "paragraph": "Exploring a River, Naming Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Between%201534%20and%201542"
+    },
+    {
+      "question": "Who did Jacques Cartier claim the land for during his voyages?",
+      "possible_answers": [
+        {
+          "answer_text": "King Henry VIII of England",
+          "is_correct": false
+        },
+        {
+          "answer_text": "King Louis XIV of France",
+          "is_correct": false
+        },
+        {
+          "answer_text": "King Francis I of France",
+          "is_correct": true
+        },
+        {
+          "answer_text": "King Charles I of Spain",
+          "is_correct": false
+        }
+      ],
+      "quote": "Jacques Cartier made three voyages across the Atlantic, claiming the land for **King Francis I of France**.",
+      "page_number": 14,
+      "paragraph": "Exploring a River, Naming Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=King%20Francis%20I%20of%20France"
+    },
+    {
+      "question": "What does the Iroquoian word 'kanata' mean?",
+      "possible_answers": [
+        {
+          "answer_text": "Lake",
+          "is_correct": false
+        },
+        {
+          "answer_text": "River",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Village",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "quote": "Cartier heard two captured guides speak the Iroquoian word **kanata, meaning \u201cvillage.\u201d**",
+      "page_number": 14,
+      "paragraph": "Exploring a River, Naming Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=kanata%2C%20meaning%20\u201cvillage\u201d"
+    },
+    {
+      "question": "When did the name of Canada begin appearing on maps?",
+      "possible_answers": [
+        {
+          "answer_text": "In the 1560s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In the 1520s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "In the 1550s",
+          "is_correct": true
+        },
+        {
+          "answer_text": "In the 1540s",
+          "is_correct": false
+        }
+      ],
+      "quote": "By the **1550s**, the name of Canada began appearing on maps.",
+      "page_number": 14,
+      "paragraph": "Exploring a River, Naming Canada",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=By%20the%201550s"
     }
   ]
 }

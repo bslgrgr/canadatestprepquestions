@@ -3,6 +3,8 @@ import json
 import random
 from openai import OpenAI
 from dotenv import load_dotenv
+import jsonschema
+from jsonschema import validate
 
 # Load environment variables from .env file
 load_dotenv()
@@ -28,6 +30,50 @@ if os.path.exists(questions_file_path):
         previous_questions = json.load(questions_file)
 else:
     previous_questions = {"questions": []}
+
+# Define the schema for the questions JSON
+question_schema = {
+    "type": "object",
+    "properties": {
+        "questions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "question": {"type": "string"},
+                    "possible_answers": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "answer_text": {"type": "string"},
+                                "is_correct": {"type": "boolean"}
+                            },
+                            "required": ["answer_text", "is_correct"]
+                        }
+                    },
+                    "quote": {"type": "string"},
+                    "page_number": {"type": "number"},
+                    "paragraph": {"type": "string"},
+                    "online_page": {"type": "string"}
+                },
+                "required": ["question", "possible_answers", "quote", "page_number", "paragraph", "online_page"]
+            }
+        }
+    },
+    "required": ["questions"]
+}
+
+# Validate the new questions JSON
+def validate_questions_json(new_questions):
+    try:
+        validate(instance=new_questions, schema=question_schema)
+        print("New questions JSON is valid.")
+        return True
+    except jsonschema.exceptions.ValidationError as err:
+        print("New questions JSON is invalid:", err)
+        return False
+
 
 def get_random_examples(previous_questions, num_examples=3):
     if len(previous_questions['questions']) <= num_examples:
@@ -80,7 +126,7 @@ def process_part(start_line):
     return cur_line, "\n".join(part_text)
 
 # Main loop to generate and confirm new questions
-current_line = 238
+current_line = 260
 while current_line < len(document_lines):
     current_line, part_text = process_part(current_line)
     if not part_text:
@@ -92,17 +138,20 @@ while current_line < len(document_lines):
     while True:
         new_questions = generate_new_questions(system_content, part_text, previous_questions)
 
-        for question in new_questions['questions']:
-            print("\nNew Question Generated:")
-            print(json.dumps(question, indent=2))
+        if validate_questions_json(new_questions):
+            for question in new_questions['questions']:
+                print("\nNew Question Generated:")
+                print(json.dumps(question, indent=2))
 
-            user_input = input("Do you want to add this question? (Press Enter for yes, 'n' for no): ").strip().lower()
-            if user_input != 'n':
-                previous_questions['questions'].append(question)
-                save_questions(previous_questions, questions_file_path)
-                print("Question added.")
-            else:
-                print("Question skipped.")
+                user_input = input("Do you want to add this question? (Press Enter for yes, 'n' for no): ").strip().lower()
+                if user_input != 'n':
+                    previous_questions['questions'].append(question)
+                    save_questions(previous_questions, questions_file_path)
+                    print("Question added.")
+                else:
+                    print("Question skipped.")
+        else:
+            print("Generated questions are invalid, skipping.")
 
         user_input = input("Do you want to generate more questions on this part? (Press Enter for yes, 'n' for no): ").strip().lower()
         if user_input == 'n':
