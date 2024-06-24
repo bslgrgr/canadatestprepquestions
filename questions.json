@@ -2941,6 +2941,831 @@
       "page_number": 18,
       "paragraph": "Responsible Government",
       "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=loses%20a%20confidence%20vote%20in%20the%20assembly%20it%20must%20resign."
+    },
+    {
+      "question": "Who became the first head of a responsible government in Canada in 1849?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir Louis-Hippolyte La Fontaine",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir John A. Macdonald",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir George-\u00c9tienne Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Wilfrid Laurier",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Sir Louis-Hippolyte La Fontaine** became the first head of a responsible government (similar to a prime minister) in Canada in 1849.",
+      "page_number": 18,
+      "paragraph": "Responsible Government (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Sir%20Louis%2DHippolyte%20La%20Fontaine"
+    },
+    {
+      "question": "In what year did Sir Louis-Hippolyte La Fontaine become the first head of a responsible government in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1849",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1867",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1812",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1917",
+          "is_correct": false
+        }
+      ],
+      "quote": "Sir Louis-Hippolyte La Fontaine became the first head of a responsible government (similar to a prime minister) in Canada **in 1849**.",
+      "page_number": 18,
+      "paragraph": "Responsible Government (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=in%201849"
+    },
+    {
+      "question": "When was the Dominion of Canada officially established?",
+      "possible_answers": [
+        {
+          "answer_text": "July 1, 1867",
+          "is_correct": true
+        },
+        {
+          "answer_text": "July 1, 1870",
+          "is_correct": false
+        },
+        {
+          "answer_text": "July 1, 1865",
+          "is_correct": false
+        },
+        {
+          "answer_text": "July 1, 1887",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Dominion of Canada was officially born on **July 1, 1867**.",
+      "page_number": 18,
+      "paragraph": "Confederation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Dominion%20of%20Canada%20was%20officially%20born%20on%20July%201%2C%201867"
+    },
+    {
+      "question": "What did July 1st used to be called before it was known as Canada Day?",
+      "possible_answers": [
+        {
+          "answer_text": "Dominion Day",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Confederation Day",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Independence Day",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Nation Day",
+          "is_correct": false
+        }
+      ],
+      "quote": "Until 1982, **July 1 was celebrated as \u201cDominion Day\u201d** to commemorate the day that Canada became a self-governing Dominion.",
+      "page_number": 18,
+      "paragraph": "Confederation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Until%201982%2C%20July%201%20was%20celebrated%20as%20%E2%80%9CDominion%20Day%E2%80%9D"
+    },
+    {
+      "question": "What were the two levels of government created by the Fathers of Confederation?",
+      "possible_answers": [
+        {
+          "answer_text": "Federal and provincial",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Municipal and territorial",
+          "is_correct": false
+        },
+        {
+          "answer_text": "National and regional",
+          "is_correct": false
+        },
+        {
+          "answer_text": "State and local",
+          "is_correct": false
+        }
+      ],
+      "quote": "They created **two levels of government: federal and provincial**.",
+      "page_number": 18,
+      "paragraph": "Confederation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=They%20created%20two%20levels%20of%20government%3A%20federal%20and%20provincial"
+    },
+    {
+      "question": "Which act passed by the British Parliament established the Dominion of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "The British North America Act",
+          "is_correct": true
+        },
+        {
+          "answer_text": "The Constitutional Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Canada Act",
+          "is_correct": false
+        },
+        {
+          "answer_text": "The Independence Act",
+          "is_correct": false
+        }
+      ],
+      "quote": "The **British North America Act** passed in 1867.",
+      "page_number": 18,
+      "paragraph": "Confederation",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20British%20North%20America%20Act%20in%201867"
+    },
+    {
+      "question": "Who assigned Canada's national colours?",
+      "possible_answers": [
+        {
+          "answer_text": "King George V",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Queen Victoria",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Prime Minister John A. Macdonald",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Lord Durham",
+          "is_correct": false
+        }
+      ],
+      "quote": "Dominion of Canada $1 bill, 1923, showing **King George V**, who assigned Canada\u2019s national colours (white and red) in 1921, the colours of our national flag today.",
+      "page_number": 18,
+      "paragraph": "Confederation (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=King%20George%20V"
+    },
+    {
+      "question": "Who proposed the term Dominion of Canada in 1864?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir John A. Macdonald",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Leonard Tilley",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir Charles Tupper",
+          "is_correct": false
+        },
+        {
+          "answer_text": "George-\u00c9tienne Cartier",
+          "is_correct": false
+        }
+      ],
+      "quote": "Sir Leonard Tilley, an **elected official and Father of Confederation from New Brunswick**, suggested the term Dominion of Canada in 1864.",
+      "page_number": 18,
+      "paragraph": "Dominion from Sea to Sea",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Sir%20Leonard%20Tilley%2C%20an%20elected%20official%20and%20Father%20of%20Confederation%20from%20New%20Brunswick"
+    },
+    {
+      "question": "For how many years was the title Dominion of Canada used officially?",
+      "possible_answers": [
+        {
+          "answer_text": "50 years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "75 years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "100 years",
+          "is_correct": true
+        },
+        {
+          "answer_text": "125 years",
+          "is_correct": false
+        }
+      ],
+      "quote": "The title was written into the Constitution, **was used officially for about 100 years**, and remains part of our heritage today.",
+      "page_number": 18,
+      "paragraph": "Dominion from Sea to Sea",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20title%20was%20written%20into%20the%20Constitution%2C%20was%20used%20officially%20for%20about%20100%20years"
+    },
+    {
+      "question": "Which provinces joined the Dominion of Canada in 1867?",
+      "possible_answers": [
+        {
+          "answer_text": "Ontario, Quebec, Nova Scotia, New Brunswick",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Manitoba, Northwest Territories, British Columbia, Prince Edward Island",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Yukon, Alberta, Saskatchewan, Newfoundland",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Nunavut, Ontario, Quebec, Nova Scotia",
+          "is_correct": false
+        }
+      ],
+      "quote": "**1867 \u2014 Ontario, Quebec, Nova Scotia, New Brunswick**",
+      "page_number": 19,
+      "paragraph": "Expansion of the Dominion",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1867%20%E2%80%94%20Ontario%2C%20Quebec%2C%20Nova%20Scotia%2C%20New%20Brunswick"
+    },
+    {
+      "question": "When did Newfoundland and Labrador join Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1867",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1905",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1949",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1999",
+          "is_correct": false
+        }
+      ],
+      "quote": "**1949 \u2014 Newfoundland and Labrador**",
+      "page_number": 19,
+      "paragraph": "Expansion of the Dominion",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1949%20%E2%80%94%20Newfoundland%20and%20Labrador"
+    },
+    {
+      "question": "When did Nunavut become a part of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1980",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1999",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1949",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1867",
+          "is_correct": false
+        }
+      ],
+      "quote": "**1999 \u2014 Nunavut**",
+      "page_number": 19,
+      "paragraph": "Expansion of the Dominion",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1999%20%E2%80%94%20Nunavut"
+    },
+    {
+      "question": "In which year was British Columbia incorporated into the Dominion of Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1867",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1880",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1870",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1871",
+          "is_correct": true
+        }
+      ],
+      "quote": "**1871 \u2014 British Columbia**",
+      "page_number": 19,
+      "paragraph": "Expansion of the Dominion",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1871%20%E2%80%94%20British%20Columbia"
+    },
+    {
+      "question": "Who became Canada's first Prime Minister in 1867?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir George-\u00c9tienne Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "John Buchan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir John Alexander Macdonald",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir Frederick Banting",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1867, **Sir John Alexander Macdonald, a Father of Confederation, became Canada\u2019s first Prime Minister**.",
+      "page_number": 19,
+      "paragraph": "Canada\u2019s First Prime Minister",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Sir%20John%20Alexander%20Macdonald%2C%20a%20Father%20of%20Confederation%2C%20became%20Canada%E2%80%99s%20first%20Prime%20Minister"
+    },
+    {
+      "question": "Whose portrait appears on the $10 bill?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir John Alexander Macdonald",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir George-\u00c9tienne Cartier",
+          "is_correct": false
+        },
+        {
+          "answer_text": "John Buchan",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Frederick Banting",
+          "is_correct": false
+        }
+      ],
+      "quote": "**His portrait is on the $10 bill**.",
+      "page_number": 19,
+      "paragraph": "Canada\u2019s First Prime Minister",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=His%20portrait%20is%20on%20the%20%2410%20bill"
+    },
+    {
+      "question": "Which territories and provinces did Sir George-\u00c9tienne Cartier help negotiate into Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Newfoundland, Prince Edward Island, Yukon",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Northwest Territories, Manitoba, British Columbia",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Alberta, Saskatchewan, New Brunswick",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ontario, Quebec, Nova Scotia",
+          "is_correct": false
+        }
+      ],
+      "quote": "Cartier led Quebec into Confederation and **helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada**.",
+      "page_number": 19,
+      "paragraph": "Canada\u2019s First Prime Minister",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=helped%20negotiate%20the%20entry%20of%20the%20Northwest%20Territories%2C%20Manitoba%20and%20British%20Columbia%20into%20Canada"
+    },
+    {
+      "question": "Which force was established by Prime Minister Macdonald in 1873 to pacify the West?",
+      "possible_answers": [
+        {
+          "answer_text": "North West Mounted Police (NWMP)",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Royal Canadian Navy (RCN)",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canadian Army",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canadian Mounted Infantry",
+          "is_correct": false
+        }
+      ],
+      "quote": "After the first M\u00e9tis uprising, Prime Minister Macdonald established the **North West Mounted Police (NWMP)** in 1873 to pacify the West",
+      "page_number": 19,
+      "paragraph": "Challenge in the West",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=North%20West%20Mounted%20Police%20(NWMP)"
+    },
+    {
+      "question": "What headquarters location became the base for the North West Mounted Police, later the Royal Canadian Mounted Police?",
+      "possible_answers": [
+        {
+          "answer_text": "Regina",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Fort Garry",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Fort Calgary",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ottawa",
+          "is_correct": false
+        }
+      ],
+      "quote": "Regina became its headquarters. Today, the Royal Canadian Mounted Police (RCMP or \u201cthe Mounties\u201d)",
+      "page_number": 19,
+      "paragraph": "Challenge in the West",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Regina"
+    },
+    {
+      "question": "For how many years did the flag of the Hudson\u2019s Bay Company fly over Western Canada before Confederation?",
+      "possible_answers": [
+        {
+          "answer_text": "150 years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "100 years",
+          "is_correct": false
+        },
+        {
+          "answer_text": "200 years",
+          "is_correct": true
+        },
+        {
+          "answer_text": "250 years",
+          "is_correct": false
+        }
+      ],
+      "quote": "Fort Garry, 1863: the **flag of the Hudson\u2019s Bay Company flew over Western Canada for 200 years before Confederation**.",
+      "page_number": 19,
+      "paragraph": "Challenge in the West (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=flag%20of%20the%20Hudson%E2%80%99s%20Bay%20Company%20flew%20over%20Western%20Canada%20for%20200%20years%20before%20Confederation"
+    },
+    {
+      "question": "When did British Columbia join Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "1867",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1871",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1885",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1905",
+          "is_correct": false
+        }
+      ],
+      "quote": "**British Columbia joined Canada in 1871** after Ottawa promised to build a railway to the West Coast.",
+      "page_number": 20,
+      "paragraph": "A Railway from Sea to Sea",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=British%20Columbia%20joined%20Canada%20in%201871"
+    },
+    {
+      "question": "Who financed the Canadian Pacific Railway?",
+      "possible_answers": [
+        {
+          "answer_text": "Canadian and British governments",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Canadian and American investors",
+          "is_correct": false
+        },
+        {
+          "answer_text": "British and American investors",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Canadian and Chinese investors",
+          "is_correct": false
+        }
+      ],
+      "quote": "The project was financed by **British and American investors** and built by both European and Chinese labour.",
+      "page_number": 20,
+      "paragraph": "A Railway from Sea to Sea",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20project%20was%20financed%20by%20British%20and%20American%20investors"
+    },
+    {
+      "question": "When did the Government of Canada apologize for the discriminatory Head Tax?",
+      "possible_answers": [
+        {
+          "answer_text": "1885",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1971",
+          "is_correct": false
+        },
+        {
+          "answer_text": "2006",
+          "is_correct": true
+        },
+        {
+          "answer_text": "2021",
+          "is_correct": false
+        }
+      ],
+      "quote": "The Government of Canada apologized in **2006** for this discriminatory policy.",
+      "page_number": 20,
+      "paragraph": "A Railway from Sea to Sea",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=The%20Government%20of%20Canada%20apologized%20in%202006"
+    },
+    {
+      "question": "Which ethnic group had 170,000 immigrants settling in the West before 1914?",
+      "possible_answers": [
+        {
+          "answer_text": "Poles",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Ukrainians",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Germans",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Norwegians",
+          "is_correct": false
+        }
+      ],
+      "quote": "The railway made it possible for immigrants, including **170,000 Ukrainians**, 115,000 Poles and tens of thousands from Germany, France, Norway and Sweden to settle in the West before 1914 and develop a thriving agricultural sector.",
+      "page_number": 20,
+      "paragraph": "Moving Westward",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=170%2C000%20Ukrainians"
+    },
+    {
+      "question": "How many Americans immigrated to Canada during the economic boom of the 1890s and early 1900s?",
+      "possible_answers": [
+        {
+          "answer_text": "500,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "750,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1 million",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1.5 million",
+          "is_correct": false
+        }
+      ],
+      "quote": "Canada\u2019s economy grew and became more industrialized during the economic boom of the 1890s and early 1900s. **One million British and one million Americans immigrated to Canada** at this time.",
+      "page_number": 20,
+      "paragraph": "Moving Westward",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=One%20million%20British%20and%20one%20million%20Americans%20immigrated%20to%20Canada"
+    },
+    {
+      "question": "What is depicted on the Canadian $5 bill to honor an influential prime minister?",
+      "possible_answers": [
+        {
+          "answer_text": "Sir John A. Macdonald",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Robert Borden",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Sir Wilfrid Laurier",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Sir Charles Tupper",
+          "is_correct": false
+        }
+      ],
+      "quote": "Sir Wilfrid Laurier became the first French-Canadian prime minister since Confederation and encouraged immigration to the West. **His portrait is on the $5 bill**.",
+      "page_number": 20,
+      "paragraph": "Moving Westward",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=His%20portrait%20is%20on%20the%20%245%20bill"
+    },
+    {
+      "question": "How many Canadians volunteered to fight in the South African War (Boer War)?",
+      "possible_answers": [
+        {
+          "answer_text": "7,000",
+          "is_correct": true
+        },
+        {
+          "answer_text": "10,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "5,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "12,000",
+          "is_correct": false
+        }
+      ],
+      "quote": "**Over 7,000 volunteered to fight in the South African War (1899\u20131902)**, popularly known as the Boer War, and over 260 died.",
+      "page_number": 21,
+      "paragraph": "The First World War",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Over%207%2C000%20volunteered%20to%20fight%20in%20the%20South%20African%20War%20(1899%E2%80%931902)"
+    },
+    {
+      "question": "Who was Canada\u2019s greatest soldier during the First World War?",
+      "possible_answers": [
+        {
+          "answer_text": "General Sir Arthur Currie",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Lieutenant General Julian Byng",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Major General Alexander McDougall",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Colonel John McCrae",
+          "is_correct": false
+        }
+      ],
+      "quote": "In 1918, under the command of **General Sir Arthur Currie, Canada\u2019s greatest soldier**, the Canadian Corps advanced alongside the French and British Empire troops in the last hundred days.",
+      "page_number": 21,
+      "paragraph": "The First World War",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=General%20Sir%20Arthur%20Currie%2C%20Canada%E2%80%99s%20greatest%20soldier"
+    },
+    {
+      "question": "How many Canadians served in the First World War?",
+      "possible_answers": [
+        {
+          "answer_text": "More than 600,000",
+          "is_correct": true
+        },
+        {
+          "answer_text": "More than 500,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "More than 700,000",
+          "is_correct": false
+        },
+        {
+          "answer_text": "More than 800,000",
+          "is_correct": false
+        }
+      ],
+      "quote": "**More than 600,000 Canadians served in the war**, most of them volunteers, out of a total population of eight million.",
+      "page_number": 21,
+      "paragraph": "The First World War",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=More%20than%20600%2C000%20Canadians%20served%20in%20the%20war"
+    },
+    {
+      "question": "When did Canada\u2019s soldiers first start using the maple leaf?",
+      "possible_answers": [
+        {
+          "answer_text": "1940s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1780s",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1850s",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1920s",
+          "is_correct": false
+        }
+      ],
+      "quote": "Canada\u2019s soldiers began using the maple leaf in the **1850s**.",
+      "page_number": 21,
+      "paragraph": "The First World War (photo)",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=began%20using%20the%20maple%20leaf%20in%20the%201850s"
+    },
+    {
+      "question": "Which province was the first to grant voting rights to women in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Ontario",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Quebec",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Manitoba",
+          "is_correct": true
+        },
+        {
+          "answer_text": "British Columbia",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1916, Manitoba became the first province to grant voting rights to women**.",
+      "page_number": 21,
+      "paragraph": "Women Get the Vote",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1916%2C%20Manitoba%20became%20the%20first%20province%20to%20grant%20voting%20rights%20to%20women"
+    },
+    {
+      "question": "When were most Canadian female citizens aged 21 and over granted the right to vote in federal elections?",
+      "possible_answers": [
+        {
+          "answer_text": "1917",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1918",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1921",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1940",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1918**, most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.",
+      "page_number": 21,
+      "paragraph": "Women Get the Vote",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=In%201918%2C%20most%20Canadian%20female%20citizens%20aged%2021%20and%20over%20were%20granted%20the%20right%20to%20vote%20in%20federal%20elections"
+    },
+    {
+      "question": "Who became the first woman Member of Parliament (MP) in Canada?",
+      "possible_answers": [
+        {
+          "answer_text": "Dr. Emily Stowe",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Th\u00e9r\u00e8se Casgrain",
+          "is_correct": false
+        },
+        {
+          "answer_text": "Agnes Macphail",
+          "is_correct": true
+        },
+        {
+          "answer_text": "Nellie McClung",
+          "is_correct": false
+        }
+      ],
+      "quote": "In **1921 Agnes Macphail**, a farmer and teacher, became the first woman MP.",
+      "page_number": 21,
+      "paragraph": "Women Get the Vote",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=1921%20Agnes%20Macphail"
+    },
+    {
+      "question": "In what year did Quebec grant women the right to vote?",
+      "possible_answers": [
+        {
+          "answer_text": "1921",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1917",
+          "is_correct": false
+        },
+        {
+          "answer_text": "1940",
+          "is_correct": true
+        },
+        {
+          "answer_text": "1918",
+          "is_correct": false
+        }
+      ],
+      "quote": "Due to the work of Th\u00e9r\u00e8se Casgrain and others, **Quebec granted women the vote in 1940**.",
+      "page_number": 21,
+      "paragraph": "Women Get the Vote",
+      "online_page": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html#:~:text=Quebec%20granted%20women%20the%20vote%20in%201940"
     }
   ]
 }
